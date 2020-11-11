@@ -66,7 +66,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'OSeMOSYS-CR'
+project = u'CLEWCR'
 copyright = u'2020, EPERLab-UCR'
 author = u'EPERLab-UCR'
 
