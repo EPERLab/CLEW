@@ -16,3 +16,4 @@ The OSeMOSYS – CR model
    02WaterModelFramework
    03Scenarios
    999Annexes.rst
+   docs/fichas/01Crops
