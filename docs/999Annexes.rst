@@ -3,8 +3,11 @@
 Annexes 
 =====================================
 
-A1. Fuels
+A1. Energy model
 +++++++++
+
+A1.1. Fuels
+---------
 
 The following table shows the fuels included in OSeMOSYS-CR. 
 
@@ -254,8 +257,8 @@ The following table shows the fuels included in OSeMOSYS-CR.
 |TISIDEWALKS       | Sidewalks infrastructure               | Transport_Infraestructre    |
 +------------------+----------------------------------------+-----------------------------+
 
-A2. Technologies
-+++++++++
+A1.2. Technologies
+---------
 
 The following table shows the technologies included in OSeMOSYS-CR. 
 
