@@ -16,4 +16,10 @@ The OSeMOSYS – CR model
    02WaterModelFramework
    03Scenarios
    999Annexes
-   fichas/01Crops
+   fichas/01_Crops
+   fichas/02_Grassland
+   fichas/03_Forest
+   fichas/04_Demands
+   fichas/05_Imports
+   fichas/06_Exports
+
