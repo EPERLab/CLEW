@@ -161,7 +161,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'eperdoc.tex', u'eperdoc Documentation',
-     u'Jam Angulo-Paniagua'),
+     u'Jam Angulo-Paniagua', 'manual'),
 ]
 
 
