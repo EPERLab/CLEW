@@ -15,3 +15,4 @@ The OSeMOSYS – CR model
    02LandModelFramework
    02WaterModelFramework
    03Scenarios
+   999Annexes.rst
