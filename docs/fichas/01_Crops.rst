@@ -19,6 +19,18 @@ Rice crops
 CapitalCost[r,t,y]
 ---------
 
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
+
 Banana crops
 ++++++++++
 
@@ -33,6 +45,21 @@ Banana crops
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+CapitalCost[r,t,y]
+---------
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
 
 
 Coffee crops
@@ -50,6 +77,20 @@ Coffee crops
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
 
 
 Sugar Cane crops
@@ -67,6 +108,20 @@ Sugar Cane crops
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
 
 
 Palm Oil crops
@@ -84,6 +139,20 @@ Palm Oil crops
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
 
 Pineapple crops
 ++++++++++
@@ -100,4 +169,17 @@ Pineapple crops
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
 
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+FixedCost[r,t,y]
+---------
+
+OutputActivityRatio[r,t,y]
+---------
+
+ResidualCapacity[r,t,y]
+---------
