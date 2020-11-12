@@ -19,6 +19,12 @@ Rice crops
 CapitalCost[r,t,y]
 ---------
 
+.. figure::  parameters/Rice_CapitalCost.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_CapitalCost.csv>`
+
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
