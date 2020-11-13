@@ -25,7 +25,15 @@ This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2
 
 2.2.4 Emissions
 ---------
-
++---------------------+--------------------------------------------------+
+| Emissions           | Description                                      |
++=====================+==================================================+
+|CO2                  | W_Emissions from waste water                     |
++---------------------+--------------------------------------------------+
+|CR_A_ANC_entrada     | Economic benefits of reducing water losses       |
++---------------------+--------------------------------------------------+
+|CR_A_ANC_salida      | Benefits in health of water treatment            |
++---------------------+--------------------------------------------------+
 
 2.2.5 Mode of operation
 ---------
