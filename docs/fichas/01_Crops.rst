@@ -4,7 +4,7 @@ Crops
 Rice crops
 ++++++++++
 .. table::
-   align:   center  
+   :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_rice.png                                                                                  |
@@ -67,7 +67,8 @@ Banana crops
 ++++++++++
 
 .. table::
-   align:   center  
+   :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    |.. figure:: img/img_crops_banana.png                                                                                |
    |    :align:   center                                                                                                 |
@@ -120,7 +121,8 @@ ResidualCapacity[r,t,y]
 Coffee crops
 ++++++++++
 .. table::
-   align:   center  
+   :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_coffee.png                                                                                |
    |    :align:   center                                                                                                 |
@@ -182,7 +184,8 @@ ResidualCapacity[r,t,y]
 Sugar Cane crops
 ++++++++++
 .. table::
-   align:   center  
+   :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_sugar_cane.png                                                                            |
    |    :align:   center                                                                                                 |
@@ -245,7 +248,8 @@ Palm Oil crops
 ++++++++++
 
 .. table::
-   align:   center  
+   :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_palm_oil.png                                                                              |
    |    :align:   center                                                                                                 |
@@ -307,7 +311,8 @@ Pineapple crops
 ++++++++++
 
 .. table::
-   align:   center  
+   :align:   center   
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_pine_apple.png                                                                            |
    |    :align:   center                                                                                                 |
