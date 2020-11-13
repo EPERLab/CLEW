@@ -61,7 +61,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Rice Production* :download:`. <csv/Rice_ResidualCapacity.csv>`
 
 Banana crops
 ++++++++++
@@ -124,7 +124,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Banana Production* :download:`. <csv/Banana_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Banana Production* :download:`. <csv/Banana_ResidualCapacity.csv>`
 
 
 Coffee crops
@@ -187,7 +187,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Coffeee_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Coffeee_ResidualCapacity.csv>`
 
 
 Sugar Cane crops
@@ -250,7 +250,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Sugar Cane Production* :download:`. <csv/Sugar_Cane_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Sugar Cane Production* :download:`. <csv/Sugar_Cane_ResidualCapacity.csv>`
 
 
 Palm Oil crops
@@ -314,7 +314,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Palm Oil Production* :download:`. <csv/Palm_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Palm Oil Production* :download:`. <csv/Palm_ResidualCapacity.csv>`
 
 Pineapple crops
 ++++++++++
@@ -377,4 +377,4 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Pineapple Production* :download:`. <csv/Pineapple_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Pineapple Production* :download:`. <csv/Pineapple_ResidualCapacity.csv>`
