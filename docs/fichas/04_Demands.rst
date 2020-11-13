@@ -6,6 +6,7 @@ Crops Demands
 
 .. table::
    :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_demands.png                                                                               |
    |    :align:   center                                                                                                 |
@@ -35,6 +36,7 @@ Livestock Demands
 
 .. table::
    :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_livestock_demands.png                                                                           |
    |    :align:   center                                                                                                 |
@@ -63,6 +65,7 @@ Wood Demands
 
 .. table::
    :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_wood_demands.png                                                                                |
    |    :align:   center                                                                                                 |
