@@ -43,7 +43,7 @@ Title
    :align:   center
    :width:   550 px
    
-   *Figure: Crops Demand* :download:`. <csv/Demand_crops.csv>`
+   *Figure: Crops Demands* :download:`. <csv/Demand_crops.csv>`
 
 Livestock Demands
 ++++++++++
@@ -87,4 +87,4 @@ Title
    :align:   center
    :width:   550 px
    
-   *Figure: Livestock Demand* :download:`. <csv/Demand_livestock.csv>`
+   *Figure: Livestock Demands* :download:`. <csv/Demand_livestock.csv>`
