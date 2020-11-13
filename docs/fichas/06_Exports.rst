@@ -45,7 +45,7 @@ Livestock Exports
 CapitalCost[r,t,y]
 ---------
 
-.. figure::  parameters/Exportss_livestock.png
+.. figure::  parameters/Exports_livestock.png
    :align:   center
    :width:   550 px
    
