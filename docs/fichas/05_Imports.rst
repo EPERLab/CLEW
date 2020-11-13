@@ -36,7 +36,7 @@ Crops Imports
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-CapitalCost[r,t,y]
+Title
 ---------
 
 .. figure::  parameters/Imports_crops.png
@@ -80,11 +80,11 @@ Livestock Imports
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-CapitalCost[r,t,y]
+Title
 ---------
 
 .. figure::  parameters/Imports_livestock.png
    :align:   center
    :width:   550 px
    
-   *Figure: Crops Imports* :download:`. <csv/Imports_livestock.csv>`
+   *Figure: Livestock Imports* :download:`. <csv/Imports_livestock.csv>`
