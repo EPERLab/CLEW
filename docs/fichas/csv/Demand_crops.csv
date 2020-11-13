@@ -1,0 +1,289 @@
+﻿Year,Fuel,SpecifiedAnnualDemand
+2015,Coffee demand,0.023001
+2016,Coffee demand,0.023278
+2017,Coffee demand,0.02355
+2018,Coffee demand,0.023816
+2019,Coffee demand,0.024076
+2020,Coffee demand,0.024329
+2021,Coffee demand,0.024576
+2022,Coffee demand,0.024816
+2023,Coffee demand,0.025048
+2024,Coffee demand,0.025274
+2025,Coffee demand,0.025493
+2026,Coffee demand,0.025704
+2027,Coffee demand,0.025909
+2028,Coffee demand,0.026108
+2029,Coffee demand,0.026299
+2030,Coffee demand,0.026484
+2031,Coffee demand,0.026663
+2032,Coffee demand,0.026836
+2033,Coffee demand,0.027002
+2034,Coffee demand,0.02717
+2035,Coffee demand,0.027332
+2036,Coffee demand,0.027488
+2037,Coffee demand,0.027638
+2038,Coffee demand,0.027781
+2039,Coffee demand,0.027918
+2040,Coffee demand,0.028048
+2041,Coffee demand,0.028172
+2042,Coffee demand,0.02829
+2043,Coffee demand,0.028402
+2044,Coffee demand,0.028507
+2045,Coffee demand,0.028605
+2046,Coffee demand,0.028697
+2047,Coffee demand,0.028783
+2048,Coffee demand,0.028863
+2049,Coffee demand,0.028936
+2050,Coffee demand,0.029003
+2015,Oil palm demand,0.060403
+2016,Oil palm demand,0.06113
+2017,Oil palm demand,0.061844
+2018,Oil palm demand,0.062543
+2019,Oil palm demand,0.063225
+2020,Oil palm demand,0.06389
+2021,Oil palm demand,0.064538
+2022,Oil palm demand,0.065167
+2023,Oil palm demand,0.065778
+2024,Oil palm demand,0.06637
+2025,Oil palm demand,0.066945
+2026,Oil palm demand,0.067501
+2027,Oil palm demand,0.068039
+2028,Oil palm demand,0.06856
+2029,Oil palm demand,0.069063
+2030,Oil palm demand,0.069549
+2031,Oil palm demand,0.070018
+2032,Oil palm demand,0.070472
+2033,Oil palm demand,0.070909
+2034,Oil palm demand,0.071351
+2035,Oil palm demand,0.071776
+2036,Oil palm demand,0.072185
+2037,Oil palm demand,0.072578
+2038,Oil palm demand,0.072954
+2039,Oil palm demand,0.073313
+2040,Oil palm demand,0.073656
+2041,Oil palm demand,0.073982
+2042,Oil palm demand,0.074292
+2043,Oil palm demand,0.074584
+2044,Oil palm demand,0.07486
+2045,Oil palm demand,0.075119
+2046,Oil palm demand,0.075361
+2047,Oil palm demand,0.075586
+2048,Oil palm demand,0.075794
+2049,Oil palm demand,0.075987
+2050,Oil palm demand,0.076163
+2015,Banana demand,0.136801
+2016,Banana demand,0.138447
+2017,Banana demand,0.140063
+2018,Banana demand,0.141646
+2019,Banana demand,0.143192
+2020,Banana demand,0.144699
+2021,Banana demand,0.146166
+2022,Banana demand,0.147591
+2023,Banana demand,0.148974
+2024,Banana demand,0.150316
+2025,Banana demand,0.151617
+2026,Banana demand,0.152877
+2027,Banana demand,0.154095
+2028,Banana demand,0.155274
+2029,Banana demand,0.156413
+2030,Banana demand,0.157514
+2031,Banana demand,0.158578
+2032,Banana demand,0.159604
+2033,Banana demand,0.160595
+2034,Banana demand,0.161595
+2035,Banana demand,0.162559
+2036,Banana demand,0.163485
+2037,Banana demand,0.164374
+2038,Banana demand,0.165225
+2039,Banana demand,0.16604
+2040,Banana demand,0.166816
+2041,Banana demand,0.167555
+2042,Banana demand,0.168256
+2043,Banana demand,0.168918
+2044,Banana demand,0.169543
+2045,Banana demand,0.170129
+2046,Banana demand,0.170677
+2047,Banana demand,0.171187
+2048,Banana demand,0.171659
+2049,Banana demand,0.172095
+2050,Banana demand,0.172495
+2015,Molasses demand,0.1705
+2016,Molasses demand,0.172552
+2017,Molasses demand,0.174567
+2018,Molasses demand,0.176539
+2019,Molasses demand,0.178466
+2020,Molasses demand,0.180344
+2021,Molasses demand,0.182172
+2022,Molasses demand,0.183948
+2023,Molasses demand,0.185672
+2024,Molasses demand,0.187345
+2025,Molasses demand,0.188966
+2026,Molasses demand,0.190536
+2027,Molasses demand,0.192055
+2028,Molasses demand,0.193524
+2029,Molasses demand,0.194944
+2030,Molasses demand,0.196316
+2031,Molasses demand,0.197642
+2032,Molasses demand,0.198921
+2033,Molasses demand,0.200156
+2034,Molasses demand,0.201403
+2035,Molasses demand,0.202603
+2036,Molasses demand,0.203757
+2037,Molasses demand,0.204866
+2038,Molasses demand,0.205927
+2039,Molasses demand,0.206942
+2040,Molasses demand,0.20791
+2041,Molasses demand,0.208831
+2042,Molasses demand,0.209704
+2043,Molasses demand,0.21053
+2044,Molasses demand,0.211308
+2045,Molasses demand,0.212038
+2046,Molasses demand,0.212721
+2047,Molasses demand,0.213357
+2048,Molasses demand,0.213946
+2049,Molasses demand,0.214489
+2050,Molasses demand,0.214987
+2015,Bagasse demand,0.264
+2016,Bagasse demand,0.267177
+2017,Bagasse demand,0.270297
+2018,Bagasse demand,0.273351
+2019,Bagasse demand,0.276335
+2020,Bagasse demand,0.279243
+2021,Bagasse demand,0.282073
+2022,Bagasse demand,0.284823
+2023,Bagasse demand,0.287492
+2024,Bagasse demand,0.290082
+2025,Bagasse demand,0.292593
+2026,Bagasse demand,0.295024
+2027,Bagasse demand,0.297376
+2028,Bagasse demand,0.29965
+2029,Bagasse demand,0.301849
+2030,Bagasse demand,0.303974
+2031,Bagasse demand,0.306026
+2032,Bagasse demand,0.308007
+2033,Bagasse demand,0.309919
+2034,Bagasse demand,0.31185
+2035,Bagasse demand,0.313708
+2036,Bagasse demand,0.315495
+2037,Bagasse demand,0.317211
+2038,Bagasse demand,0.318855
+2039,Bagasse demand,0.320426
+2040,Bagasse demand,0.321925
+2041,Bagasse demand,0.323351
+2042,Bagasse demand,0.324703
+2043,Bagasse demand,0.325981
+2044,Bagasse demand,0.327186
+2045,Bagasse demand,0.328317
+2046,Bagasse demand,0.329375
+2047,Bagasse demand,0.330359
+2048,Bagasse demand,0.331271
+2049,Bagasse demand,0.332112
+2050,Bagasse demand,0.332883
+2015,Sugar demand,0.270489
+2016,Sugar demand,0.273744
+2017,Sugar demand,0.276941
+2018,Sugar demand,0.28007
+2019,Sugar demand,0.283127
+2020,Sugar demand,0.286107
+2021,Sugar demand,0.289006
+2022,Sugar demand,0.291824
+2023,Sugar demand,0.294559
+2024,Sugar demand,0.297212
+2025,Sugar demand,0.299785
+2026,Sugar demand,0.302276
+2027,Sugar demand,0.304685
+2028,Sugar demand,0.307016
+2029,Sugar demand,0.309268
+2030,Sugar demand,0.311445
+2031,Sugar demand,0.313548
+2032,Sugar demand,0.315578
+2033,Sugar demand,0.317537
+2034,Sugar demand,0.319515
+2035,Sugar demand,0.321419
+2036,Sugar demand,0.32325
+2037,Sugar demand,0.325008
+2038,Sugar demand,0.326692
+2039,Sugar demand,0.328303
+2040,Sugar demand,0.329838
+2041,Sugar demand,0.331299
+2042,Sugar demand,0.332684
+2043,Sugar demand,0.333994
+2044,Sugar demand,0.335229
+2045,Sugar demand,0.336387
+2046,Sugar demand,0.337471
+2047,Sugar demand,0.338479
+2048,Sugar demand,0.339414
+2049,Sugar demand,0.340275
+2050,Sugar demand,0.341066
+2015,Rice demand,0.355206
+2016,Rice demand,0.359481
+2017,Rice demand,0.363679
+2018,Rice demand,0.367789
+2019,Rice demand,0.371802
+2020,Rice demand,0.375715
+2021,Rice demand,0.379523
+2022,Rice demand,0.383223
+2023,Rice demand,0.386815
+2024,Rice demand,0.390299
+2025,Rice demand,0.393677
+2026,Rice demand,0.396948
+2027,Rice demand,0.400113
+2028,Rice demand,0.403173
+2029,Rice demand,0.406131
+2030,Rice demand,0.40899
+2031,Rice demand,0.411751
+2032,Rice demand,0.414417
+2033,Rice demand,0.416989
+2034,Rice demand,0.419587
+2035,Rice demand,0.422088
+2036,Rice demand,0.424492
+2037,Rice demand,0.426801
+2038,Rice demand,0.429012
+2039,Rice demand,0.431127
+2040,Rice demand,0.433143
+2041,Rice demand,0.435061
+2042,Rice demand,0.436881
+2043,Rice demand,0.438601
+2044,Rice demand,0.440222
+2045,Rice demand,0.441744
+2046,Rice demand,0.443166
+2047,Rice demand,0.444491
+2048,Rice demand,0.445718
+2049,Rice demand,0.44685
+2050,Rice demand,0.447887
+2015,Pineapple demand,0.93
+2016,Pineapple demand,0.941191
+2017,Pineapple demand,0.952182
+2018,Pineapple demand,0.962943
+2019,Pineapple demand,0.973452
+2020,Pineapple demand,0.983697
+2021,Pineapple demand,0.993666
+2022,Pineapple demand,1.003353
+2023,Pineapple demand,1.012757
+2024,Pineapple demand,1.02188
+2025,Pineapple demand,1.030724
+2026,Pineapple demand,1.039289
+2027,Pineapple demand,1.047574
+2028,Pineapple demand,1.055586
+2029,Pineapple demand,1.063331
+2030,Pineapple demand,1.070816
+2031,Pineapple demand,1.078046
+2032,Pineapple demand,1.085026
+2033,Pineapple demand,1.091759
+2034,Pineapple demand,1.098561
+2035,Pineapple demand,1.105109
+2036,Pineapple demand,1.111405
+2037,Pineapple demand,1.117448
+2038,Pineapple demand,1.123239
+2039,Pineapple demand,1.128775
+2040,Pineapple demand,1.134055
+2041,Pineapple demand,1.139076
+2042,Pineapple demand,1.14384
+2043,Pineapple demand,1.148344
+2044,Pineapple demand,1.152588
+2045,Pineapple demand,1.156572
+2046,Pineapple demand,1.160297
+2047,Pineapple demand,1.163764
+2048,Pineapple demand,1.166977
+2049,Pineapple demand,1.16994
+2050,Pineapple demand,1.172657
