@@ -36,6 +36,15 @@ Crops Exports
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Exports_crops.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Exports_crops.csv>`
+
 Livestock Exports
 ++++++++++
 
@@ -71,3 +80,11 @@ Livestock Exports
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Exportss_livestock.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Exportss_livestock.csv>`
