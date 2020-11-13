@@ -52,7 +52,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/Rice_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
