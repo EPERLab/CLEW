@@ -61,7 +61,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
 
 Banana crops
 ++++++++++
@@ -97,7 +97,7 @@ EmissionActivityRatio[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Banana Production* :download:`. <csv/Rice_EmissionAR.csv>`
+   *Figure: Emission Activity Ratio of Banana Production* :download:`. <csv/Banana_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -106,7 +106,7 @@ FixedCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Fixed Cost of Banana Production* :download:`. <csv/Rice_FixedCost.csv>`
+   *Figure: Fixed Cost of Banana Production* :download:`. <csv/Banana_FixedCost.csv>`
 
 OutputActivityRatio[r,t,y]
 ---------
@@ -115,7 +115,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity Ratio of Banana Production* :download:`. <csv/Banana_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -124,7 +124,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Banana Production* :download:`. <csv/Banana_ResidalCapacity.csv>`
 
 
 Coffee crops
@@ -151,7 +151,7 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Coffee Production* :download:`. <csv/Rice_CapitalCost.csv>`
+   *Figure: Capital Cost of Coffee Production* :download:`. <csv/Coffee_CapitalCost.csv>`
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -160,7 +160,7 @@ EmissionActivityRatio[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Coffee Production* :download:`. <csv/Rice_EmissionAR.csv>`
+   *Figure: Emission Activity Ratio of Coffee Production* :download:`. <csv/Coffee_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -169,7 +169,7 @@ FixedCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Fixed Cost of Coffee Production* :download:`. <csv/Rice_FixedCost.csv>`
+   *Figure: Fixed Cost of Coffee Production* :download:`. <csv/Coffee_FixedCost.csv>`
 
 OutputActivityRatio[r,t,y]
 ---------
@@ -178,7 +178,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Coffee Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity Ratio of Coffee Production* :download:`. <csv/Coffee_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -187,7 +187,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Coffeee_ResidalCapacity.csv>`
 
 
 Sugar Cane crops
@@ -214,7 +214,7 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Sugar Cane Production* :download:`. <csv/Rice_CapitalCost.csv>`
+   *Figure: Capital Cost of Sugar Cane Production* :download:`. <csv/Sugar_Cane_CapitalCost.csv>`
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -223,7 +223,7 @@ EmissionActivityRatio[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Sugar Cane Production* :download:`. <csv/Rice_EmissionAR.csv>`
+   *Figure: Emission Activity Ratio of Sugar Cane Production* :download:`. <csv/Sugar_Cane_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -232,7 +232,7 @@ FixedCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Fixed Cost of Sugar Cane Production* :download:`. <csv/Rice_FixedCost.csv>`
+   *Figure: Fixed Cost of Sugar Cane Production* :download:`. <csv/Sugar_Cane_FixedCost.csv>`
 
 OutputActivityRatio[r,t,y]
 ---------
@@ -241,7 +241,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Sugar Cane Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity Ratio of Sugar Cane Production* :download:`. <csv/Sugar_Cane_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -250,7 +250,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Sugar Cane Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Sugar Cane Production* :download:`. <csv/Sugar_Cane_ResidalCapacity.csv>`
 
 
 Palm Oil crops
@@ -278,7 +278,7 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Palm Oil Production* :download:`. <csv/Rice_CapitalCost.csv>`
+   *Figure: Capital Cost of Palm Oil Production* :download:`. <csv/Palm_CapitalCost.csv>`
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -287,7 +287,7 @@ EmissionActivityRatio[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity ratio of Palm Oil Production* :download:`. <csv/Rice_EmissionAR.csv>`
+   *Figure: Emission Activity ratio of Palm Oil Production* :download:`. <csv/Palm_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -296,7 +296,7 @@ FixedCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Fixed Cost of Palm Oil Production* :download:`. <csv/Rice_FixedCost.csv>`
+   *Figure: Fixed Cost of Palm Oil Production* :download:`. <csv/Palm_FixedCost.csv>`
 
 OutputActivityRatio[r,t,y]
 ---------
@@ -305,7 +305,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity of Palm Oil Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity of Palm Oil Production* :download:`. <csv/Palm_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -314,7 +314,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Palm Oil Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Palm Oil Production* :download:`. <csv/Palm_ResidalCapacity.csv>`
 
 Pineapple crops
 ++++++++++
@@ -341,7 +341,7 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Pineapple Production* :download:`. <csv/Rice_CapitalCost.csv>`
+   *Figure: Capital Cost of Pineapple Production* :download:`. <csv/Pineapple_CapitalCost.csv>`
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -350,7 +350,7 @@ EmissionActivityRatio[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Pineapple Production* :download:`. <csv/Rice_EmissionAR.csv>`
+   *Figure: Emission Activity Ratio of Pineapple Production* :download:`. <csv/Pineapple_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
@@ -359,7 +359,7 @@ FixedCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Fixed Cost of Pineapple Production* :download:`. <csv/Rice_FixedCost.csv>`
+   *Figure: Fixed Cost of Pineapple Production* :download:`. <csv/Pineapple_FixedCost.csv>`
 
 OutputActivityRatio[r,t,y]
 ---------
@@ -368,7 +368,7 @@ OutputActivityRatio[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Pineapple Production* :download:`. <csv/Rice_OAR.csv>`
+   *Figure: Output Activity Ratio of Pineapple Production* :download:`. <csv/Pineapple_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -377,4 +377,4 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Pineapple Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+   *Figure: Residual Capacity of Pineapple Production* :download:`. <csv/Pineapple_ResidalCapacity.csv>`
