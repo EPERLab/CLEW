@@ -39,7 +39,7 @@ Crops Imports
 CapitalCost[r,t,y]
 ---------
 
-.. figure::  parameters/Imports_crops.png
+.. figure::  parameters/img/Imports_crops.png
    :align:   center
    :width:   550 px
    
@@ -83,7 +83,7 @@ Livestock Imports
 CapitalCost[r,t,y]
 ---------
 
-.. figure::  parameters/Imports_livestock.png
+.. figure::  parameters/img/Imports_livestock.png
    :align:   center
    :width:   550 px
    
