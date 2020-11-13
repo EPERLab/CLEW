@@ -25,7 +25,29 @@ This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2
 
 2.2.4 Emissions
 ---------
-
++---------------------+--------------------------------------------------+
+| Emission            | Description                                      |
++=====================+==================================================+
+|CR02_LULUCF_ABS      | L_Forest removals                                |
++---------------------+--------------------------------------------------+
+|CR02_LULUCF_EMI      | L_Land use change emissions                      |
++---------------------+--------------------------------------------------+
+|CRCO2_EQ_ESTIERCOL   | L_Eq carbon dioxide manure management            |
++---------------------+--------------------------------------------------+
+|CRCO2_EQ_FERMEN      | L_Eq carbon dioxide from enteric fermentation    |
++---------------------+--------------------------------------------------+
+|CRCO2_ABS_P_FOR      | L_Removals from forest plantations               |
++---------------------+--------------------------------------------------+
+|CRCO2_CULTIVOS       | L_Emissions from crops                           |
++---------------------+--------------------------------------------------+
+|SE_DRY_Forest        | L_Ecosystem services from dry forest             |
++---------------------+--------------------------------------------------+
+|SE_MANGRO_Forest     | L_Ecosystem servoces from Mangroves              |
++---------------------+--------------------------------------------------+
+|SE_PALM_Fosrest      | L_Ecosystem services from Palm Forest            |
++---------------------+--------------------------------------------------+
+|SE_WET_MOIST_Forest  | L_Ecosystem services from Moist Forest           |
++---------------------+--------------------------------------------------+
 
 2.2.5 Mode of operation
 ---------
