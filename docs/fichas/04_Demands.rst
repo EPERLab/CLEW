@@ -57,7 +57,7 @@ Wood Demands
 ++++++++++
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| .. figure:: img/img_livestock_demands.png                                                                           |
+| .. figure:: img/img_wood_demands.png                                                                                |
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -74,7 +74,7 @@ Wood Demands
 Title
 ---------
 
-.. figure::  parameters/img_wood_demands.png
+.. figure::  parameters/Demand_wood.png
    :align:   center
    :width:   550 px
    
