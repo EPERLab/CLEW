@@ -36,6 +36,15 @@ Forests
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+Title
+---------
+
+.. figure::  parameters/Forest.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Forest* :download:`. <csv/Forestscsv>`
+
 Forests Plantations
 ++++++++++
 
