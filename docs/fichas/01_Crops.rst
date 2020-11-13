@@ -343,14 +343,6 @@ CapitalCost[r,t,y]
    
    *Figure: Capital Cost of Pineapple Production* :download:`. <csv/Pineapple_CapitalCost.csv>`
 
-EmissionActivityRatio[r,t,e,m,y]
----------
-
-.. figure::  parameters/Pineapple_EmissionAR.png
-   :align:   center
-   :width:   550 px
-   
-   *Figure: Emission Activity Ratio of Pineapple Production* :download:`. <csv/Pineapple_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
