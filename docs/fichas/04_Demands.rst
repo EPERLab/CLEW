@@ -74,7 +74,7 @@ Wood Demands
 Title
 ---------
 
-.. figure::  parameters/Demand_wood.png
+.. figure::  parameters/img_wood_demands.png
    :align:   center
    :width:   550 px
    
