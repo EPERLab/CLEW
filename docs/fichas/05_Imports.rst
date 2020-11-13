@@ -36,6 +36,15 @@ Crops Imports
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Imports_crops.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Imports_crops.csv>`
+
 Livestock Imports
 ++++++++++
 
@@ -70,3 +79,12 @@ Livestock Imports
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5433       | 0.6816       | 1.041        | 1.2517       |
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Imports_livestock.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Imports_livestock.csv>`
