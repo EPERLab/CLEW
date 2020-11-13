@@ -4,20 +4,17 @@ Crops
 Rice crops
 ++++++++++
 
-.. table:: 
-   :align: center
-   
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | .. figure:: img/img_crops_rice.png                                                                                  |
-   |    :align:   center                                                                                                 |
-   |    :width:   500 px                                                                                                 |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRPRODARROZ                                                |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Description:                                            | Rice crops                                                |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set:                                                    |Technology                                                 |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| .. figure:: img/img_crops_rice.png                                                                                  |
+|    :align:   center                                                                                                 |
+|    :width:   500 px                                                                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set codification:                                       |CRPRODARROZ                                                |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Description:                                            | Rice crops                                                |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Set:                                                    |Technology                                                 |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 CapitalCost[r,t,y]
 ---------
@@ -58,7 +55,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Rice_ResidalCapacity.png
+.. figure::  parameters/Rice_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
@@ -109,7 +106,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Banana_ResidalCapacity.png
+.. figure::  parameters/Banana_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
@@ -170,7 +167,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Coffee_ResidalCapacity.png
+.. figure::  parameters/Coffee_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
@@ -231,7 +228,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Sugar_Cane_ResidalCapacity.png
+.. figure::  parameters/Sugar_Cane_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
@@ -292,7 +289,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Palm_ResidalCapacity.png
+.. figure::  parameters/Palm_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
@@ -352,7 +349,7 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
-.. figure::  parameters/Pineapple_ResidalCapacity.png
+.. figure::  parameters/Pineapple_ResidualCapacity.png
    :align:   center
    :width:   550 px
    
