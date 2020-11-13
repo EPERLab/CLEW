@@ -9,7 +9,7 @@ Rice crops
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Set codification:                                       |                                                           |
+| Set codification:                                       |CRPRODARROZ                                                |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Description:                                            | Rice crops                                                |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -28,11 +28,29 @@ CapitalCost[r,t,y]
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
+.. figure::  parameters/Rice_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
+
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Rice_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
+
+.. figure::  parameters/Rice_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
