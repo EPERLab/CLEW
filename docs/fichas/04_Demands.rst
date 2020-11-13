@@ -36,6 +36,15 @@ Crops Demands
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Demand_crops.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Demand_crops.csv>`
+
 Livestock Demands
 ++++++++++
 
@@ -70,3 +79,11 @@ Livestock Demands
 | TotalTechnologyAnnualActivityLowerLimit[r,t,y]  | Gvkm  | 0.5433       | 0.6816       | 1.041        | 1.2517       |
 | (NDP)                                           |       |              |              |              |              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+CapitalCost[r,t,y]
+---------
+
+.. figure::  parameters/Demand_livestock.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Crops Imports* :download:`. <csv/Demand_livestock.csv>`
