@@ -55,6 +55,12 @@ OutputActivityRatio[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
+.. figure::  parameters/Rice_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
+
 Banana crops
 ++++++++++
 
@@ -70,20 +76,41 @@ Banana crops
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-CapitalCost[r,t,y]
----------
-
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+.. figure::  parameters/Banana_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Banana_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
 
+.. figure::  parameters/Banana_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+
 ResidualCapacity[r,t,y]
 ---------
+
+.. figure::  parameters/Banana_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
 
 
 Coffee crops
@@ -104,17 +131,47 @@ Coffee crops
 CapitalCost[r,t,y]
 ---------
 
+.. figure::  parameters/Coffee_CapitalCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_CapitalCost.csv>`
+
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+.. figure::  parameters/Coffee_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Coffee_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
 
+.. figure::  parameters/Coffee_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+
 ResidualCapacity[r,t,y]
 ---------
+
+.. figure::  parameters/Coffee_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
 
 
 Sugar Cane crops
@@ -135,17 +192,47 @@ Sugar Cane crops
 CapitalCost[r,t,y]
 ---------
 
+.. figure::  parameters/Sugar_Cane_CapitalCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_CapitalCost.csv>`
+
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+.. figure::  parameters/Sugar_Cane_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Sugar_Cane_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
 
+.. figure::  parameters/Sugar_Cane_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+
 ResidualCapacity[r,t,y]
 ---------
+
+.. figure::  parameters/Sugar_Cane_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
 
 
 Palm Oil crops
@@ -166,17 +253,47 @@ Palm Oil crops
 CapitalCost[r,t,y]
 ---------
 
-EmissionActivityRatio[r,t,e,m,y]
+.. figure::  parameters/Palm_CapitalCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_CapitalCost.csv>`
+
+EEmissionActivityRatio[r,t,e,m,y]
 ---------
+
+.. figure::  parameters/Palm_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Palm_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
 
+.. figure::  parameters/Palm_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+
 ResidualCapacity[r,t,y]
 ---------
+
+.. figure::  parameters/Palm_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
 
 Pineapple crops
 ++++++++++
@@ -196,14 +313,44 @@ Pineapple crops
 CapitalCost[r,t,y]
 ---------
 
+.. figure::  parameters/Pineapple_CapitalCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_CapitalCost.csv>`
+
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+.. figure::  parameters/Pineapple_EmissionAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_EmissionAR.csv>`
 
 FixedCost[r,t,y]
 ---------
 
+.. figure::  parameters/Pineapple_FixedCost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_FixedCost.csv>`
+
 OutputActivityRatio[r,t,y]
 ---------
 
+.. figure::  parameters/Pineapple_OAR.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_OAR.csv>`
+
 ResidualCapacity[r,t,y]
 ---------
+
+.. figure::  parameters/Pineapple_ResidalCapacity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Rice_ResidalCapacity.csv>`
