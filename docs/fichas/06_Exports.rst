@@ -26,7 +26,7 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Crops Imports* :download:`. <csv/Exports_crops.csv>`
+   *Figure: Crops Exports* :download:`. <csv/Exports_crops.csv>`
 
 Livestock Exports
 ++++++++++
@@ -53,4 +53,4 @@ CapitalCost[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Crops Imports* :download:`. <csv/Exports_livestock.csv>`
+   *Figure: Crops Exports* :download:`. <csv/Exports_livestock.csv>`
