@@ -46,7 +46,7 @@ Title
    :align:   center
    :width:   550 px
    
-   *Figure: Forest* :download:`. <csv/Forestscsv>`
+   *Figure: Forest* :download:`. <csv/Forest.csv>`
 
 Forests Plantations
 ++++++++++
