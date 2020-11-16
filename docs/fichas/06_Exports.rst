@@ -32,7 +32,7 @@ SpecifiedAnnualDemand[r,f,y]
    *Figure: Crops Exports* :download:`. <csv/Exports_crops.csv>`
 
    
-   Variable Cost [r,t,y]
+Variable Cost [r,t,y]
 ---------
 
 .. figure::  parameters/Exports_Variable_Cost.png
@@ -40,7 +40,7 @@ SpecifiedAnnualDemand[r,f,y]
    :width:   550 px
    
    *Figure: Variable Cost of Exports* :download:`. <csv/Exports_Variable_Cost.csv>`
-
+   
 Livestock Exports
 ++++++++++
 
@@ -59,7 +59,16 @@ Livestock Exports
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
  
- Variable Cost [r,t,y]
+SpecifiedAnnualDemand[r,f,y]
+---------
+
+.. figure::  parameters/Exports_Livestock.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Livestock Exports* :download:`. <csv/Exports_Livestock.csv>`
+
+Variable Cost [r,t,y]
 ---------
 
 .. figure::  parameters/Exports_Variable_Cost_Livestock.png
@@ -67,3 +76,4 @@ Livestock Exports
    :width:   550 px
    
    *Figure: Variable Cost of Livestock Exports* :download:`. <csv/Exports_Variable_Cost_Livestock.csv>`
+   
