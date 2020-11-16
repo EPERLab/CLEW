@@ -59,6 +59,8 @@ This data is based on information from the Central Bank of Costa Rica.
 OutputActivityRatio[r,t,y]
 ---------
 
+This parameter represents the crop yield. This data is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. 
+
 .. figure::  parameters/Rice_OAR.png
    :align:   center
    :width:   550 px
