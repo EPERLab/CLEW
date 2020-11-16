@@ -59,7 +59,6 @@ Livestock Exports
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-
 SpecifiedAnnualDemand[r,f,y]
 ---------
 
@@ -67,8 +66,7 @@ SpecifiedAnnualDemand[r,f,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Crops Exports* :download:`. <csv/Exports_livestock.csv>`
-
+   *Figure: Livestock Exports* :download:`. <csv/Exports_Livestock.csv>`
 
    
  Variable Cost [r,t,y]
