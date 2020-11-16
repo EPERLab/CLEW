@@ -31,7 +31,7 @@ The pineapple, sugar, molasses, rice, bagasse, palm oil, banana and coffee futur
 
 .. math::
 
-   Demand_{crop i} [ \frac{Mton}{year} ] = \frac{{per_ capita_ consumption_i x  population}}{1x10^9}. 
+   Demand_{crop_i} [ \frac{Mton}{year} ] = \frac{{per\ capita\ consumption_i\ x\  population}}{1x10^9}. 
    
 These demands are the same in both scenarios. 
 
