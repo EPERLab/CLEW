@@ -59,7 +59,7 @@ This data is based on information from the Central Bank of Costa Rica.
 OutputActivityRatio[r,t,y]
 ---------
 
-This parameter represents the crop yield. This data is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. 
+This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place.  
 
 .. figure::  parameters/Rice_OAR.png
    :align:   center
