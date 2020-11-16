@@ -70,6 +70,14 @@ This parameter represents the crop yield. This parameter is based on historical 
 ResidualCapacity[r,t,y]
 ---------
 
+Here, the residual capacity is understood as the area remaining from a period prior to modeling and is obtained by subtracting each year a proportion of the available area (Mha) based on an average of the operational life of rice crops. It is a function and tends to zero. This parameter is based on the following equation: 
+
+.. math::
+
+   \frac{Area(year-1) -  Area(year)}{Operational life}. 
+   
+In the case of rice crops, their operational life is 1 year. 
+
 .. figure::  parameters/Rice_ResidualCapacity.png
    :align:   center
    :width:   550 px
