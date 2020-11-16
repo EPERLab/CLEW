@@ -35,6 +35,12 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
+The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of rice crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
+
+In the BAU scenario, the emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards, based on the Food and Agriculture Organization's GHG emission projections for agriculture, and contemplating more sustainable rice production schemes.
+
+Translated with www.DeepL.com/Translator (free version)
+
 .. figure::  parameters/Rice_EmissionAR.png
    :align:   center
    :width:   550 px
