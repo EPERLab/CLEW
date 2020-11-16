@@ -1,6 +1,8 @@
 Crops
 ==================================
 
+The specific crops considered in the model were selected based on the area they occupy and their overall economic relevance to the country. Therefore, based on these criteria, pineapple, coffee, banana, sugarcane, oil palm, and rice were considered. A category of "others" was also included which groups crops that do not have a large area of cultivation, but are important for the country's food security (e.g., beans, corn).
+
 Rice crops
 ++++++++++
 .. table::
@@ -17,9 +19,6 @@ Rice crops
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
-The specific crops considered in the model were selected based on the area they occupy and their overall economic relevance to the country. Therefore, based on these criteria, pineapple, coffee, banana, sugarcane, oil palm, and rice were considered. A category of "others" was also included which groups crops that do not have a large area of cultivation, but are important for the country's food security (e.g., beans, corn).
-
 
 CapitalCost[r,t,y]
 ---------
