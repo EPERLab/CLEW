@@ -63,7 +63,7 @@ Livestock Exports
 SpecifiedAnnualDemand[r,f,y]
 ---------
 
-.. figure::  parameters/Exports_livestock.png
+.. figure::  parameters/Exports_Livestock.png
    :align:   center
    :width:   550 px
    
