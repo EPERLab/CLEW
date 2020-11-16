@@ -30,6 +30,15 @@ TotalTechnologyAnnualActivityLower and Upper Limit[r,t,y]
    :width:   550 px
    
    *Figure: Crops Imports* :download:`. <csv/Imports_crops.csv>`
+   
+   Variable Cost [r,t,y]
+---------
+
+.. figure::  parameters/Imports_Variable_Cost.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Variable Cost of Imports* :download:`. <csv/Imports_Variable_Cost.csv>`
 
 Livestock Imports
 ++++++++++
@@ -58,3 +67,5 @@ TotalTechnologyAnnualActivityLower and Upper Limit[r,t,y]
    :width:   550 px
    
    *Figure: Livestock Imports* :download:`. <csv/Imports_livestock.csv>`
+
+
