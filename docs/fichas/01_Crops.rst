@@ -48,6 +48,8 @@ In the BAU scenario, emission factors remain constant until 2050, considering th
 FixedCost[r,t,y]
 ---------
 
+This data is based on information from the Central Bank of Costa Rica. 
+
 .. figure::  parameters/Rice_FixedCost.png
    :align:   center
    :width:   550 px
