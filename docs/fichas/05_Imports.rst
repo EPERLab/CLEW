@@ -76,5 +76,3 @@ Variable Cost [r,t,y]
    :width:   550 px
    
    *Figure: Variable Cost of Imports* :download:`. <csv/Imports_Livestock_Variable_Cost.csv>`
-
-
