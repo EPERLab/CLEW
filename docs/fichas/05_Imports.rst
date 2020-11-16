@@ -22,7 +22,7 @@ Crops Imports
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-Title
+TotalTechnologyAnnualActivityLower and Upper Limit[r,t,y]
 ---------
 
 .. figure::  parameters/Imports_crops.png
@@ -50,7 +50,7 @@ Livestock Imports
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-Title
+TotalTechnologyAnnualActivityLower and Upper Limit[r,t,y]
 ---------
 
 .. figure::  parameters/Imports_livestock.png
