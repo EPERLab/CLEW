@@ -71,7 +71,7 @@ SpecifiedAnnualDemand[r,f,y]
 
 
    
-   Variable Cost [r,t,y]
+ Variable Cost [r,t,y]
 ---------
 
 .. figure::  parameters/Exports_Variable_Cost_Livestock.png
