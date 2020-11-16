@@ -1,6 +1,8 @@
 Demands
 ==================================
 
+In this section, the demand are separated in three categories: crops demands, livestock demands and wood demand. 
+
 Crops Demands
 ++++++++++
 
@@ -24,6 +26,12 @@ Crops Demands
 
 SpecifiedAnnualDemand[r,f,y]
 ---------
+
+The pineapple, sugar, molasses, rice, bagasse, palm oil, banana and coffee future demands are calculated by using average per capita consumption data (kg/inhab/yr) and population projections (millions of people) from the National Institute of Statistics and Census of Costa Rica. In the model, the per capita consumption values are kept constant through out all of the modeling period. The demands are calculated as indicated by the following equation: 
+
+.. math::
+
+   Demand_{crop i] [\frac{Mton}{year}] = \frac{per capita consumption x  population}{1x10^9}. 
 
 .. figure::  parameters/Demand_crops.png
    :align:   center
