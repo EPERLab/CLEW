@@ -58,18 +58,7 @@ Livestock Exports
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
-
-SpecifiedAnnualDemand[r,f,y]
----------
-
-.. figure::  parameters/Exports_Livestock.png
-   :align:   center
-   :width:   550 px
-   
-   *Figure: Livestock Exports* :download:`. <csv/Exports_Livestock.csv>`
-
-   
+ 
  Variable Cost [r,t,y]
 ---------
 
