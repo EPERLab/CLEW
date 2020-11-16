@@ -73,7 +73,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
 .. math::
 
-   \frac{Area(year-1) -  Area(year)}{Operational life}. 
+   \frac{Area(year-1) -  Area(year)}{Operational_life}. 
    
 In the case of rice crops, their operational life is 1 year. 
 
