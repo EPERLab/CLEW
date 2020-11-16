@@ -6,6 +6,7 @@ Crops Exports
 
 .. table::
    :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_crops_imports_exports.png                                                                       |
    |    :align:   center                                                                                                 |
@@ -33,6 +34,7 @@ Livestock Exports
 
 .. table::
    :align:   center  
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | .. figure:: img/img_livestock_imports_exports.png                                                                   |
    |    :align:   center                                                                                                 |
