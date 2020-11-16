@@ -22,7 +22,7 @@ Crops Demands
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-Title
+SpecifiedAnnualDemand[r,f,y]
 ---------
 
 .. figure::  parameters/Demand_crops.png
@@ -51,7 +51,7 @@ Livestock Demands
 
 
 
-Title
+SpecifiedAnnualDemand[r,f,y]
 ---------
 
 .. figure::  parameters/Demand_livestock.png
@@ -80,7 +80,7 @@ Wood Demands
 
 
 
-Title
+SpecifiedAnnualDemand[r,f,y]
 ---------
 
 .. figure::  parameters/Demand_wood.png
