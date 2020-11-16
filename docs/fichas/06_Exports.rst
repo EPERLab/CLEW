@@ -66,8 +66,9 @@ SpecifiedAnnualDemand[r,f,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Livestock Exports* :download:`. <csv/Exports_Livestock.csv>`
+   *Figure: Crops Exports* :download:`. <csv/Exports_Livestock.csv>`
 
+   
 Variable Cost [r,t,y]
 ---------
 
@@ -75,5 +76,4 @@ Variable Cost [r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Variable Cost of Livestock Exports* :download:`. <csv/Exports_Variable_Cost_Livestock.csv>`
-   
+   *Figure: Variable Cost of Exports* :download:`. <csv/Exports_Variable_Cost_Livestock.csv>`
