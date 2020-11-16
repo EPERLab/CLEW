@@ -24,7 +24,7 @@ The specific crops considered for the model were selected based on the area they
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of the National Rice Corporation (CONARROZ). 
+The capital cost is given in MUS$ per Mha. This information is based on reports of the National Rice Corporation (CONARROZ). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
 
 .. figure::  parameters/Rice_CapitalCost.png
    :align:   center
