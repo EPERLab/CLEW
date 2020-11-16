@@ -20,7 +20,7 @@ Crops Exports
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-CapitalCost[r,t,y]
+SpecifiedAnnualDemand[r,f,y]
 ---------
 
 .. figure::  parameters/Exports_crops.png
@@ -48,7 +48,7 @@ Livestock Exports
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
-CapitalCost[r,t,y]
+SpecifiedAnnualDemand[r,f,y]
 ---------
 
 .. figure::  parameters/Exports_livestock.png
