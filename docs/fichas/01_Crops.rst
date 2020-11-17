@@ -207,7 +207,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Coffeee_ResidualCapacity.csv>`
+   *Figure: Residual Capacity of Coffee Production* :download:`. <csv/Coffee_ResidualCapacity.csv>`
 
 
 Sugar Cane crops
