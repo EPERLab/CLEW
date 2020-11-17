@@ -79,7 +79,7 @@ Variable Cost [r,t,y]
 
 This information refers to the international prices of the agricultural products, which are from a report of the World Bank Group in the case of beef and the National Chamber of Milk Producers in the case of milk. 
 
-.. figure::  parameters/Imports_Variable_Cost_Livestock.png
+.. figure::  parameters/Imports_Livestock_Variable_Cost.png
    :align:   center
    :width:   550 px
    
