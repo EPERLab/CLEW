@@ -22,4 +22,12 @@ The CLEW – CR model
    fichas/04_Demands
    fichas/05_Imports
    fichas/06_Exports
+   fichas/07_Precipitation
+   fichas/08_WaterBalance
+   fichas/09_Extraction
+   fichas/10_Potabilization
+   fichas/11_Irrigation
+   fichas/12_Water_distribution
+   fichas/13_Water_demands
+   fichas/14_Watewater_disposal
 
