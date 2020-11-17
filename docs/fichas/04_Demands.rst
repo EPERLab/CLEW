@@ -44,6 +44,8 @@ These demands are the same in both scenarios.
 Livestock Demands
 ++++++++++
 
+The beef and milk local future demands are calculated by using the same principle used for the crops demands. Here, the per capita consumption values are also kept constant through out all of the modeling period, and the demand is the same in both scenarios.  
+
 .. table::
    :align:   center  
    
@@ -72,6 +74,8 @@ SpecifiedAnnualDemand[r,f,y]
    
 Wood Demands
 ++++++++++
+
+
 
 .. table::
    :align:   center  
