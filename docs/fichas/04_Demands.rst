@@ -75,7 +75,7 @@ The beef and milk local future demands are calculated by using the same principl
 Wood Demands
 ++++++++++
 
-The wood demand in the BAU scenario is based on historical data. The NDP scenario contemplates a higher demand of wood, since the National Decarbonization Plan aims at promoting the use of wood in construction. In the model, the increase in this demand results in a higher area of forest plantations. This aspect has implications in the CO2 removals in the country, which are higher in the NDP scenario.  
+The wood demand in the BAU scenario is based on the same method used for agricultural products. The NDP scenario contemplates a higher demand of wood, since the National Decarbonization Plan aims at promoting the use of wood in construction. In the model, the increase in this demand results in a higher area of forest plantations. This aspect has implications in the CO2 removals in the country, which are higher in the NDP scenario.  
 
 
 .. table::
