@@ -25,6 +25,12 @@ Crops Exports
 SpecifiedAnnualDemand[r,f,y]
 ---------
 
+This parameter stablishes the level of exported agricultural products, and it is presented in Mton. The following equation expresses the amount of exported tons for the i agricultural product:
+
+.. math::
+
+   Exports_i\ [Mton] = Local\ production_i\ [Mton]\ -\ Local\ demand_i\ [Mton]\ +\ imports_i\ [Mton]
+
 .. figure::  parameters/Exports_crops.png
    :align:   center
    :width:   550 px
@@ -35,6 +41,8 @@ SpecifiedAnnualDemand[r,f,y]
 Variable Cost [r,t,y]
 ---------
 
+This parameter presents the economic gains of exporting products, which are based on information from Costa Rica's Foreign Trade Promoter.
+
 .. figure::  parameters/Exports_Variable_Cost.png
    :align:   center
    :width:   550 px
@@ -43,6 +51,8 @@ Variable Cost [r,t,y]
    
 Livestock Exports
 ++++++++++
+
+This parameter stablishes the level of exported agricultural products, and it is presented in Mton. It follows the same principle as the crops exports.  
 
 .. table::
    :align:   center  
@@ -71,6 +81,8 @@ SpecifiedAnnualDemand[r,f,y]
    
 Variable Cost [r,t,y]
 ---------
+
+This parameter presents the economic gains of exporting products, which are based on information from Costa Rica's Foreign Trade Promoter and the National Chamber of Milk Producers. 
 
 .. figure::  parameters/Exports_Variable_Cost_Livestock.png
    :align:   center
