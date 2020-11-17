@@ -33,7 +33,7 @@ The pineapple, sugar, molasses, rice, bagasse, palm oil, banana and coffee futur
 
    Demand_{crop_i} [ \frac{Mton}{year} ] = \frac{{per\ capita\ consumption_i\ x\  population}}{1x10^9}. 
    
-These demands are the same in both scenarios. 
+These demands are the same in both scenarios. The information regarding the local production, the exports and imports is crucial in order to calculate the per capita consumption values. The latter data was obtained from the National Rice Corporation and Costa Rica's Foreign Trade Promoter. In the case of the local production, the data is from reports of the National Rice Corporation, National Federation of Oil Palm Growers, and the Executive Secretariat for Agricultural Sector Planning. 
 
 .. figure::  parameters/Demand_crops.png
    :align:   center
@@ -43,8 +43,6 @@ These demands are the same in both scenarios.
 
 Livestock Demands
 ++++++++++
-
-The beef and milk local future demands are calculated by using the same principle used for the crops demands. Here, the per capita consumption values are also kept constant through out all of the modeling period, and the demand is the same in both scenarios.  
 
 .. table::
    :align:   center  
@@ -66,6 +64,8 @@ The beef and milk local future demands are calculated by using the same principl
 SpecifiedAnnualDemand[r,f,y]
 ---------
 
+The beef and milk local future demands are calculated by using the same principle used for the crops demands. Here, the per capita consumption values are also kept constant through out all of the modeling period, and the demand is the same in both scenarios.  
+
 .. figure::  parameters/Demand_livestock.png
    :align:   center
    :width:   550 px
@@ -75,6 +75,7 @@ SpecifiedAnnualDemand[r,f,y]
 Wood Demands
 ++++++++++
 
+The wood demand in the BAU scenario is based on historical data. The NDP scenario contemplates a higher demand of wood, since the National Decarbonization Plan aims at promoting the use of wood in construction. In the model, the increase in this demand results in a higher area of forest plantations. This aspect has implications in the CO2 removals in the country, which are higher in the NDP scenario.  
 
 
 .. table::
@@ -91,7 +92,6 @@ Wood Demands
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 
 
 SpecifiedAnnualDemand[r,f,y]
