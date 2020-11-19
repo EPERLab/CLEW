@@ -16,6 +16,14 @@ Superficial extraction
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   127.6
+
 OutputActivityRatio[r,t,y]
 ---------
 
@@ -30,25 +38,11 @@ This parameter represents the crop yield. This parameter is based on historical 
 ResidualCapacity[r,t,y]
 ---------
 
-
-.. math::
-
-   \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
-   
-In the case of rice crops, their operational life is 1 year. 
-
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Constant Value                                                                                                      |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| 1.2                                                                                                                 |
-+-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 .. admonition:: Constant Value
    :class: genericstyle
    
-   1.2
+   1.26
 
-.. warning:: Beware of dragons.
 
 Underground extraction
 ++++++++++
@@ -64,3 +58,19 @@ Underground extraction
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+CapitalCost[r,t,y]
+---------
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   127.6
+
+ResidualCapacity[r,t,y]
+---------
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   2.924
