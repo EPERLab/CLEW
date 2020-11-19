@@ -19,3 +19,15 @@ Precipitation
   | Set:                                                    |Technology                                                 |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
   
+
+CapacityFactor[r,t,y]
+---------
+
+
+.. figure::  parameters/Preci_CapacityFactor.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Capital Cost of Rice Production* :download:`. <csv/Preci_CapacityFactort.csv>`
+
+
