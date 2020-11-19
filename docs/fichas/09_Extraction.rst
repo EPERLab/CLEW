@@ -43,6 +43,7 @@ In the case of rice crops, their operational life is 1 year.
 | 1.2                                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+.. Constant value:: 1.2
 
 
 Underground extraction
