@@ -43,7 +43,16 @@ ResidualCapacity[r,t,y]
    :class: genericstyle
    
    1.26
+   
+TotalAnnualMaxCapacity[r,t,y]
+---------
 
+The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   2.924
 
 Underground extraction
 ++++++++++
@@ -85,3 +94,13 @@ ResidualCapacity[r,t,y]
    :class: genericstyle
    
    2.924
+   
+   TotalAnnualMaxCapacity[r,t,y]
+---------
+
+The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   0.7
