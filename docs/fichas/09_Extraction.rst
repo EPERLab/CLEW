@@ -95,7 +95,7 @@ ResidualCapacity[r,t,y]
    
    2.924
    
-   TotalAnnualMaxCapacity[r,t,y]
+TotalAnnualMaxCapacity[r,t,y]
 ---------
 
 The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
