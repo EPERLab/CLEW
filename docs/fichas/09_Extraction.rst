@@ -36,17 +36,6 @@ The fix cost is given in MUS$ per Mha. This information is based on reports of #
    
    6.87
 
-OutputActivityRatio[r,t,y]
----------
-
-This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place.  
-
-.. figure::  parameters/Rice_OAR.png
-   :align:   center
-   :width:   550 px
-   
-   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/Rice_OAR.csv>`
-
 ResidualCapacity[r,t,y]
 ---------
 
@@ -89,7 +78,6 @@ The fix cost is given in MUS$ per Mha. This information is based on reports of #
    
    0.07   
    
-
 ResidualCapacity[r,t,y]
 ---------
 
