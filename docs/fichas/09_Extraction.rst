@@ -26,6 +26,16 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
    
    127.6
 
+FixCost[r,t,y]
+---------
+
+The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   6.87
+
 OutputActivityRatio[r,t,y]
 ---------
 
@@ -68,6 +78,17 @@ CapitalCost[r,t,y]
    :class: genericstyle
    
    127.6
+   
+FixCost[r,t,y]
+---------
+
+The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   0.07   
+   
 
 ResidualCapacity[r,t,y]
 ---------
