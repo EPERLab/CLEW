@@ -22,17 +22,17 @@ Water Balance
 
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
-.. figure::  parameters/Rice_OAR.png
+.. figure::  parameters/CRRETSUP_Activity_Lo.png
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/CRRETSUP_Residual_Capacity.csv>`
+   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/CRRETSUP_Activity_Lo.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
 
 
-.. figure::  parameters/Rice_ResidualCapacity.png
+.. figure::  parameters/CRRETSUP_Residual_Capacity.png
    :align:   center
    :width:   550 px
    
