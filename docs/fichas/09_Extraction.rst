@@ -19,6 +19,8 @@ Superficial extraction
 CapitalCost[r,t,y]
 ---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+
 .. admonition:: Constant Value
    :class: genericstyle
    
