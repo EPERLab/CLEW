@@ -43,7 +43,10 @@ In the case of rice crops, their operational life is 1 year.
 | 1.2                                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-.. note:: This is a note.
+.. admonition:: Constant Value
+   :class: genericstyle
+   
+   1.2
 
 .. warning:: Beware of dragons.
 
