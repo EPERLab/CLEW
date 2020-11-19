@@ -1,0 +1,145 @@
+﻿Year,Fuel,SpecifiedAnnualDemand
+2015,Water demand for hydroelectricity,37.358
+2016,Water demand for hydroelectricity,63.4
+2017,Water demand for hydroelectricity,68.566
+2018,Water demand for hydroelectricity,65.904
+2019,Water demand for hydroelectricity,65.086
+2020,Water demand for hydroelectricity,67.379
+2021,Water demand for hydroelectricity,70
+2022,Water demand for hydroelectricity,71.863
+2023,Water demand for hydroelectricity,72.638
+2024,Water demand for hydroelectricity,75.804
+2025,Water demand for hydroelectricity,77.931
+2026,Water demand for hydroelectricity,79.293
+2027,Water demand for hydroelectricity,78.585
+2028,Water demand for hydroelectricity,79.348
+2029,Water demand for hydroelectricity,86.208
+2030,Water demand for hydroelectricity,87.646
+2031,Water demand for hydroelectricity,87.646
+2032,Water demand for hydroelectricity,85.255
+2033,Water demand for hydroelectricity,87.646
+2034,Water demand for hydroelectricity,87.983
+2035,Water demand for hydroelectricity,88.363
+2036,Water demand for hydroelectricity,92.615
+2037,Water demand for hydroelectricity,94.1
+2038,Water demand for hydroelectricity,94.01
+2039,Water demand for hydroelectricity,94.815
+2040,Water demand for hydroelectricity,95.173
+2041,Water demand for hydroelectricity,95.532
+2042,Water demand for hydroelectricity,95.89
+2043,Water demand for hydroelectricity,96.249
+2044,Water demand for hydroelectricity,97.406
+2045,Water demand for hydroelectricity,99.389
+2046,Water demand for hydroelectricity,101.262
+2047,Water demand for hydroelectricity,103.674
+2048,Water demand for hydroelectricity,106.892
+2049,Water demand for hydroelectricity,109.354
+2050,Water demand for hydroelectricity,111.581
+2015,Residential commercial and turism water demand,0.1474
+2016,Residential commercial and turism water demand,0.1492
+2017,Residential commercial and turism water demand,0.1508
+2018,Residential commercial and turism water demand,0.1526
+2019,Residential commercial and turism water demand,0.1542
+2020,Residential commercial and turism water demand,0.1558
+2021,Residential commercial and turism water demand,0.1569
+2022,Residential commercial and turism water demand,0.158
+2023,Residential commercial and turism water demand,0.1589
+2024,Residential commercial and turism water demand,0.1599
+2025,Residential commercial and turism water demand,0.1608
+2026,Residential commercial and turism water demand,0.1617
+2027,Residential commercial and turism water demand,0.1625
+2028,Residential commercial and turism water demand,0.1632
+2029,Residential commercial and turism water demand,0.164
+2030,Residential commercial and turism water demand,0.1646
+2031,Residential commercial and turism water demand,0.1652
+2032,Residential commercial and turism water demand,0.1659
+2033,Residential commercial and turism water demand,0.1664
+2034,Residential commercial and turism water demand,0.1669
+2035,Residential commercial and turism water demand,0.1676
+2036,Residential commercial and turism water demand,0.168
+2037,Residential commercial and turism water demand,0.1684
+2038,Residential commercial and turism water demand,0.1689
+2039,Residential commercial and turism water demand,0.1692
+2040,Residential commercial and turism water demand,0.1696
+2041,Residential commercial and turism water demand,0.1699
+2042,Residential commercial and turism water demand,0.1701
+2043,Residential commercial and turism water demand,0.1703
+2044,Residential commercial and turism water demand,0.1704
+2045,Residential commercial and turism water demand,0.1706
+2046,Residential commercial and turism water demand,0.1706
+2047,Residential commercial and turism water demand,0.1707
+2048,Residential commercial and turism water demand,0.1708
+2049,Residential commercial and turism water demand,0.1707
+2050,Residential commercial and turism water demand,0.1706
+2015,Industrial demand,0.1168
+2016,Industrial demand,0.1264
+2017,Industrial demand,0.137
+2018,Industrial demand,0.1484
+2019,Industrial demand,0.1606
+2020,Industrial demand,0.174
+2021,Industrial demand,0.1835
+2022,Industrial demand,0.1936
+2023,Industrial demand,0.2044
+2024,Industrial demand,0.2159
+2025,Industrial demand,0.2282
+2026,Industrial demand,0.2401
+2027,Industrial demand,0.2527
+2028,Industrial demand,0.266
+2029,Industrial demand,0.2801
+2030,Industrial demand,0.2951
+2031,Industrial demand,0.3111
+2032,Industrial demand,0.3279
+2033,Industrial demand,0.3459
+2034,Industrial demand,0.3648
+2035,Industrial demand,0.3851
+2036,Industrial demand,0.4066
+2037,Industrial demand,0.4294
+2038,Industrial demand,0.4537
+2039,Industrial demand,0.4794
+2040,Industrial demand,0.5068
+2041,Industrial demand,0.536
+2042,Industrial demand,0.567
+2043,Industrial demand,0.6
+2044,Industrial demand,0.6351
+2045,Industrial demand,0.6725
+2046,Industrial demand,0.7123
+2047,Industrial demand,0.7547
+2048,Industrial demand,0.7997
+2049,Industrial demand,0.8478
+2050,Industrial demand,0.899
+2015,Demand for agriculture,2.3802
+2016,Demand for agriculture,2.3964
+2017,Demand for agriculture,2.4178
+2018,Demand for agriculture,2.4283
+2019,Demand for agriculture,2.442
+2020,Demand for agriculture,2.462
+2021,Demand for agriculture,2.4858
+2022,Demand for agriculture,2.5921
+2023,Demand for agriculture,2.6835
+2024,Demand for agriculture,2.7838
+2025,Demand for agriculture,2.8784
+2026,Demand for agriculture,2.9839
+2027,Demand for agriculture,2.9833
+2028,Demand for agriculture,2.9665
+2029,Demand for agriculture,2.9653
+2030,Demand for agriculture,2.9511
+2031,Demand for agriculture,2.9526
+2032,Demand for agriculture,2.9512
+2033,Demand for agriculture,2.9347
+2034,Demand for agriculture,2.9347
+2035,Demand for agriculture,2.9255
+2036,Demand for agriculture,2.9237
+2037,Demand for agriculture,2.9233
+2038,Demand for agriculture,2.9058
+2039,Demand for agriculture,2.9052
+2040,Demand for agriculture,2.8954
+2041,Demand for agriculture,2.8944
+2042,Demand for agriculture,2.8901
+2043,Demand for agriculture,2.8766
+2044,Demand for agriculture,2.8754
+2045,Demand for agriculture,2.8646
+2046,Demand for agriculture,2.863
+2047,Demand for agriculture,2.8571
+2048,Demand for agriculture,2.8426
+2049,Demand for agriculture,2.841
+2050,Demand for agriculture,2.8309
