@@ -21,8 +21,26 @@ Water Demands
 SpecifiedAnnualDemand[r,t,y]
 ---------
 
-.. figure::  parameters/Water_Specified_Annual_Demand.png
+.. figure::  parameters/Water_Human_Consumtion_Specified_Annual_Demandd.png
    :align:   center
    :width:   550 px
    
-   *Figure: Specified Annual Demand* :download:`. <csv/Water_Specified_Annual_Demand.csv>`
+   *Figure: Residential, commercial and turism Specified Annual Demand* :download:`. <csv/Human_Consumtion_Specified_Annual_Demand.csv>`
+
+.. figure::  parameters/Industrial_Specified_Annual_Demand.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Industrial Specified Annual Demand* :download:`. <csv/Industrial_Specified_Annual_Demand.csv>`
+   
+   .. figure::  parameters/Agriculture_Consumtion_Specified_Annual_Demand.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Agriculture Specified Annual Demand* :download:`. <csv/Agriculture_Consumtion_Specified_Annual_Demand.csv>`
+   
+      .. figure::  parameters/Hidro_Consumtion_Specified_Annual_Demand.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Water Specified Annual Demand for hydroelectricity* :download:`. <csv/Hidro_Consumtion_Specified_Annual_Demand.csv>`
