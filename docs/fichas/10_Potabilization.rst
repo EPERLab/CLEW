@@ -22,7 +22,7 @@ ResidualCapacity[r,t,y]
 Here, the residual capacity is understood as ...
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Constant Value                                          | 0.7                                                       |
+| Constant Value                                          | 0.7 [Mha]                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 EmissionActivityRatio[r,t,e,m,y]
@@ -31,6 +31,6 @@ EmissionActivityRatio[r,t,e,m,y]
 The data on emissions is based on the ..... In new technologies for potabilization the emission activity ratio remains the same. 
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Constant Value                                          | 1                                                         |
+| Constant Value                                          | 1 [MtonCO2eq/Mha]                                         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
