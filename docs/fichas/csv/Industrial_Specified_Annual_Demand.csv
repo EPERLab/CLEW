@@ -1,0 +1,145 @@
+﻿Strategy,Year,Fuel,SpecifiedAnnualDemand
+BAU,2015,Waste water from industries and services,0.2336
+BAU,2016,Waste water from industries and services,0.253
+BAU,2017,Waste water from industries and services,0.274
+BAU,2018,Waste water from industries and services,0.2967
+BAU,2019,Waste water from industries and services,0.3214
+BAU,2020,Waste water from industries and services,0.348
+BAU,2021,Waste water from industries and services,0.3759
+BAU,2022,Waste water from industries and services,0.4059
+BAU,2023,Waste water from industries and services,0.4384
+BAU,2024,Waste water from industries and services,0.4735
+BAU,2025,Waste water from industries and services,0.5114
+BAU,2026,Waste water from industries and services,0.5472
+BAU,2027,Waste water from industries and services,0.5855
+BAU,2028,Waste water from industries and services,0.6264
+BAU,2029,Waste water from industries and services,0.6703
+BAU,2030,Waste water from industries and services,0.7172
+BAU,2031,Waste water from industries and services,0.7674
+BAU,2032,Waste water from industries and services,0.8211
+BAU,2033,Waste water from industries and services,0.8786
+BAU,2034,Waste water from industries and services,0.9401
+BAU,2035,Waste water from industries and services,1.0059
+BAU,2036,Waste water from industries and services,1.0764
+BAU,2037,Waste water from industries and services,1.1517
+BAU,2038,Waste water from industries and services,1.2323
+BAU,2039,Waste water from industries and services,1.3186
+BAU,2040,Waste water from industries and services,1.4109
+BAU,2041,Waste water from industries and services,1.5096
+BAU,2042,Waste water from industries and services,1.6153
+BAU,2043,Waste water from industries and services,1.7284
+BAU,2044,Waste water from industries and services,1.8494
+BAU,2045,Waste water from industries and services,1.9788
+BAU,2046,Waste water from industries and services,2.1174
+BAU,2047,Waste water from industries and services,2.2656
+BAU,2048,Waste water from industries and services,2.4242
+BAU,2049,Waste water from industries and services,2.5938
+BAU,2050,Waste water from industries and services,2.7754
+BAU,2015,Industrial demand,0.0584
+BAU,2016,Industrial demand,0.0632
+BAU,2017,Industrial demand,0.0685
+BAU,2018,Industrial demand,0.0742
+BAU,2019,Industrial demand,0.0803
+BAU,2020,Industrial demand,0.087
+BAU,2021,Industrial demand,0.094
+BAU,2022,Industrial demand,0.1015
+BAU,2023,Industrial demand,0.1096
+BAU,2024,Industrial demand,0.1184
+BAU,2025,Industrial demand,0.1278
+BAU,2026,Industrial demand,0.1368
+BAU,2027,Industrial demand,0.1464
+BAU,2028,Industrial demand,0.1566
+BAU,2029,Industrial demand,0.1676
+BAU,2030,Industrial demand,0.1793
+BAU,2031,Industrial demand,0.1919
+BAU,2032,Industrial demand,0.2053
+BAU,2033,Industrial demand,0.2197
+BAU,2034,Industrial demand,0.235
+BAU,2035,Industrial demand,0.2515
+BAU,2036,Industrial demand,0.2691
+BAU,2037,Industrial demand,0.2879
+BAU,2038,Industrial demand,0.3081
+BAU,2039,Industrial demand,0.3296
+BAU,2040,Industrial demand,0.3527
+BAU,2041,Industrial demand,0.3774
+BAU,2042,Industrial demand,0.4038
+BAU,2043,Industrial demand,0.4321
+BAU,2044,Industrial demand,0.4623
+BAU,2045,Industrial demand,0.4947
+BAU,2046,Industrial demand,0.5293
+BAU,2047,Industrial demand,0.5664
+BAU,2048,Industrial demand,0.606
+BAU,2049,Industrial demand,0.6485
+BAU,2050,Industrial demand,0.6939
+NDP,2015,Waste water from industries and services,0.2336
+NDP,2016,Waste water from industries and services,0.253
+NDP,2017,Waste water from industries and services,0.274
+NDP,2018,Waste water from industries and services,0.2967
+NDP,2019,Waste water from industries and services,0.3214
+NDP,2020,Waste water from industries and services,0.348
+NDP,2021,Waste water from industries and services,0.3581
+NDP,2022,Waste water from industries and services,0.3685
+NDP,2023,Waste water from industries and services,0.3792
+NDP,2024,Waste water from industries and services,0.3902
+NDP,2025,Waste water from industries and services,0.4015
+NDP,2026,Waste water from industries and services,0.4131
+NDP,2027,Waste water from industries and services,0.4251
+NDP,2028,Waste water from industries and services,0.4375
+NDP,2029,Waste water from industries and services,0.4501
+NDP,2030,Waste water from industries and services,0.4632
+NDP,2031,Waste water from industries and services,0.4766
+NDP,2032,Waste water from industries and services,0.4905
+NDP,2033,Waste water from industries and services,0.5047
+NDP,2034,Waste water from industries and services,0.5193
+NDP,2035,Waste water from industries and services,0.5344
+NDP,2036,Waste water from industries and services,0.5499
+NDP,2037,Waste water from industries and services,0.5658
+NDP,2038,Waste water from industries and services,0.5822
+NDP,2039,Waste water from industries and services,0.5991
+NDP,2040,Waste water from industries and services,0.6165
+NDP,2041,Waste water from industries and services,0.6344
+NDP,2042,Waste water from industries and services,0.6528
+NDP,2043,Waste water from industries and services,0.6717
+NDP,2044,Waste water from industries and services,0.6912
+NDP,2045,Waste water from industries and services,0.7112
+NDP,2046,Waste water from industries and services,0.7318
+NDP,2047,Waste water from industries and services,0.7531
+NDP,2048,Waste water from industries and services,0.7749
+NDP,2049,Waste water from industries and services,0.7974
+NDP,2050,Waste water from industries and services,0.8205
+NDP,2015,Industrial demand,0.0584
+NDP,2016,Industrial demand,0.0632
+NDP,2017,Industrial demand,0.0685
+NDP,2018,Industrial demand,0.0742
+NDP,2019,Industrial demand,0.0803
+NDP,2020,Industrial demand,0.087
+NDP,2021,Industrial demand,0.0895
+NDP,2022,Industrial demand,0.0921
+NDP,2023,Industrial demand,0.0948
+NDP,2024,Industrial demand,0.0975
+NDP,2025,Industrial demand,0.1004
+NDP,2026,Industrial demand,0.1033
+NDP,2027,Industrial demand,0.1063
+NDP,2028,Industrial demand,0.1094
+NDP,2029,Industrial demand,0.1125
+NDP,2030,Industrial demand,0.1158
+NDP,2031,Industrial demand,0.1192
+NDP,2032,Industrial demand,0.1226
+NDP,2033,Industrial demand,0.1262
+NDP,2034,Industrial demand,0.1298
+NDP,2035,Industrial demand,0.1336
+NDP,2036,Industrial demand,0.1375
+NDP,2037,Industrial demand,0.1415
+NDP,2038,Industrial demand,0.1456
+NDP,2039,Industrial demand,0.1498
+NDP,2040,Industrial demand,0.1541
+NDP,2041,Industrial demand,0.1586
+NDP,2042,Industrial demand,0.1632
+NDP,2043,Industrial demand,0.1679
+NDP,2044,Industrial demand,0.1728
+NDP,2045,Industrial demand,0.1778
+NDP,2046,Industrial demand,0.183
+NDP,2047,Industrial demand,0.1883
+NDP,2048,Industrial demand,0.1937
+NDP,2049,Industrial demand,0.1993
+NDP,2050,Industrial demand,0.2051
