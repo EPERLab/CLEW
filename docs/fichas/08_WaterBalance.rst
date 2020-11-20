@@ -12,7 +12,7 @@ Water Balance
   |    :align:   center                                                                                                 |
   |    :width:   500 px                                                                                                 |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-  | Set codification:                                       |                                                           |
+  | Set codification:                                       |CRRETSUP, CRRETSUB                                         |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
   | Description:                                            |Water Balance                                              |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -29,7 +29,7 @@ TotalTechnologyAnnualActivityLo[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/CRRETSUP_Activity_Lo.csv>`
+   *Figure: Total Technology Annual Activity for Superficial water return* :download:`. <csv/CRRETSUP_Activity_Lo.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -38,9 +38,9 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Rice Production* :download:`. <csv/CRRETSUP_Residual_Capacity.csv>`
+   *Figure: Residual Capacity of Superficial water return* :download:`. <csv/CRRETSUP_Residual_Capacity.csv>`
 
-Underground water extraction
+Underground water return
 ++++++++++
 
 TotalTechnologyAnnualActivityLo[r,t,y]
@@ -49,7 +49,7 @@ TotalTechnologyAnnualActivityLo[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Output Activity Ratio of Rice Production* :download:`. <csv/CRRETSUB_Activity_Lo.csv>`
+   *Figure: Total Technology Annual Activity for Underground water return* :download:`. <csv/CRRETSUB_Activity_Lo.csv>`
 
 ResidualCapacity[r,t,y]
 ---------
@@ -59,7 +59,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Rice Production* :download:`. <csv/CRRETSUB_Residual_Capacity.csv>`
+   *Figure: Residual Capacity for Underground water return* :download:`. <csv/CRRETSUB_Residual_Capacity.csv>`
 
 
 EVAPO?
