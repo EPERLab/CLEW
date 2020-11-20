@@ -79,4 +79,16 @@ Water without treatment
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data on emissions is based on #####
+
+
+
+.. figure::  parameters/CRVSINTRAT_Emission_Act_Ratio.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Emission Activity Ratio of Water without treatment* :download:`. <csv/CRVSINTRAT_Emission_Act_Ratio.csv>`
 
