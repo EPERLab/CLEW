@@ -62,7 +62,7 @@ The data on emissions is based on #####
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
+   *Figure: Emission Activity Ratio of Water treatment of industrial wastewater* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
 
 
 Septic tank
@@ -101,7 +101,19 @@ The data on emissions is based on #####
    :align:   center
    :width:   550 px
    
-   *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRPOZOSRUR_Emission_Act_Ratio.csv>`
+   *Figure: Emission Activity Ratio of Septic tanks* :download:`. <csv/CRPOZOSRUR_Emission_Act_Ratio.csv>`
+
+AnnualActivityLowerLimit[r,t,e,m,y]
+---------
+
+ #####
+
+.. figure::  parameters/CRPOZOSRURFUT_Activity_Lo.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: AnnualActivityLowerLimit of Septic tanks* :download:`. <csv/CRPOZOSRURFUT_Activity_Lo.csv>`
+
 
 Water treatment of wastewater from human consumption
 ++++++++++
@@ -141,6 +153,16 @@ The data on emissions is based on #####
    
    *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATCOHUMANO_Emission_Act_Ratio.csv>`
 
+AnnualActivityLowerLimit[r,t,e,m,y]
+---------
+
+ #####
+
+.. figure::  parameters/CRVTRATFUTCOHUMANO_Activity_Lo.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: AnnualActivityLowerLimit of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATFUTCOHUMANO_Activity_Lo.csv>`
 
 Water without treatment
 ++++++++++
