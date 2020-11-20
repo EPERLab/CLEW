@@ -27,3 +27,13 @@ SpecifiedAnnualDemand[r,t,y]
    
    *Figure: Residential, commercial and turism Specified Annual Demand* :download:`. <csv/Human_Consumtion_Specified_Annual_Demand.csv>`
    
+   .. figure::  parameters/Industrial_Specified_Annual_Demand.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Industrial Specified Annual Demand* :download:`. <csv/Industrial_Specified_Annual_Demand.csv>`
+   
+   
+
+
+   
