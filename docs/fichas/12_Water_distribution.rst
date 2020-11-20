@@ -31,7 +31,7 @@ EmissionActivityRatio[r,t,e,m,y]
 The data on emissions is based on the ..... In new technologies of water distribution the emission activity ratio remains the same. 
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Constant Value                                          | 1                                                         |
+| Constant Value                                          | 1 [MtonCO2eq/Mha]                                         |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
