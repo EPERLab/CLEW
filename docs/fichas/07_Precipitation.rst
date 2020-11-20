@@ -30,4 +30,14 @@ CapacityFactor[r,t,y]
    
    *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactor.csv>`
 
+TotalTechnologyAnnual Activity[r,t,y]
+---------
+
+
+.. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Precipitation Capacity Factor* :download:`. <csv/Precipitation_TotalTechnologyAnnualActivity.csv>`
+
 
