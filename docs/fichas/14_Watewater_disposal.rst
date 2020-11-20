@@ -16,7 +16,15 @@ Sewage
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Constant Value                                          | 723.9                                                     |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
 
 Water treatment of industrial wastewater
 ++++++++++
@@ -32,6 +40,16 @@ Water treatment of industrial wastewater
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+CapitalCost[r,t,y]
+---------
+
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Constant Value                                          | 605,2                                                     |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -62,6 +80,16 @@ Septic tank
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+CapitalCost[r,t,y]
+---------
+
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Constant Value                                          | 49,78                                                     |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
+
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
@@ -89,6 +117,16 @@ Water treatment of wastewater from human consumption
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+CapitalCost[r,t,y]
+---------
+
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Constant Value                                          | 605,2                                                     |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -118,6 +156,8 @@ Water without treatment
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
