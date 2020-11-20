@@ -23,7 +23,7 @@ ResidualCapacity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Residual Capacity of Banana Production* :download:`. <csv/CRREDACUED_Residual_Capacity.csv>`
+   *Figure: Residual Capacity of Water Distribution* :download:`. <csv/CRREDACUED_Residual_Capacity.csv>`
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
