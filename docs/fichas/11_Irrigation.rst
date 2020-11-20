@@ -40,5 +40,5 @@ CapitalCost[r,t,y]
 The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
 
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Constant Value                                          | 52                                                        |
+| Constant Value                                          | 52  MUS$/Mha                                              |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
