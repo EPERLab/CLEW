@@ -38,6 +38,6 @@ TotalTechnologyAnnual Activity[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Precipitation Capacity Factor* :download:`. <csv/Precipitation_TotalTechnologyAnnualActivity.csv>`
+   *Figure: Total Technology Annual Activity Capacity Factor* :download:`. <csv/Precipitation_TotalTechnologyAnnualActivity.csv>`
 
 
