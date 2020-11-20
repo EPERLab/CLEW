@@ -45,7 +45,7 @@ SpecifiedAnnualDemand[r,t,y]
    :align:   center
    :width:   550 px
     
-   *Figure: Water Specified Annual Demand for hydroelectricity* :download:`. <csv/Agriculture_Consumtion_Specified_Annual_Demand.csv>`  
+   *Figure: Water Specified Annual Demand for Agriculture* :download:`. <csv/Agriculture_Consumtion_Specified_Annual_Demand.csv>`  
    
 
 
