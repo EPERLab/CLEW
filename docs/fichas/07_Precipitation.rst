@@ -28,6 +28,6 @@ CapacityFactor[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactort.csv>`
+   *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactor.csv>`
 
 
