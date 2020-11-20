@@ -12,7 +12,7 @@ Precipitation
   |    :align:   center                                                                                                 |
   |    :width:   500 px                                                                                                 |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-  | Set codification:                                       |                                                           |
+  | Set codification:                                       |CRENPRECIP                                                 |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
   | Description:                                            |Precipitation                                              |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -28,6 +28,6 @@ CapacityFactor[r,t,y]
    :align:   center
    :width:   550 px
    
-   *Figure: Capital Cost of Rice Production* :download:`. <csv/Preci_CapacityFactort.csv>`
+   *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactort.csv>`
 
 
