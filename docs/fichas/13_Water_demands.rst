@@ -33,14 +33,14 @@ SpecifiedAnnualDemand[r,t,y]
    
    *Figure: Industrial Specified Annual Demand* :download:`. <csv/Industrial_Specified_Annual_Demand.csv>`
    
-   .. figure::  parameters/Agriculture_Consumtion_Specified_Annual_Demand.png
-   :align:   center
-   :width:   550 px
+ .. figure::  parameters/Agriculture_Consumtion_Specified_Annual_Demand.png
+    :align:   center
+    :width:   550 px
    
    *Figure: Agriculture Specified Annual Demand* :download:`. <csv/Agriculture_Consumtion_Specified_Annual_Demand.csv>`
    
-      .. figure::  parameters/Hidro_Consumtion_Specified_Annual_Demand.png
-   :align:   center
-   :width:   550 px
-   
+ .. figure::  parameters/Hidro_Consumtion_Specified_Annual_Demand.png
+    :align:   center
+    :width:   550 px
+    
    *Figure: Water Specified Annual Demand for hydroelectricity* :download:`. <csv/Hidro_Consumtion_Specified_Annual_Demand.csv>`
