@@ -21,10 +21,9 @@ CapitalCost[r,t,y]
 
 The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
 
-.. admonition:: Constant Value
-   :class: genericstyle
-   
-   127.6
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+| Constant Value                                          | 127.6                                                     |
++-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 FixCost[r,t,y]
 ---------
