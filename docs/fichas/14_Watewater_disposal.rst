@@ -17,6 +17,7 @@ Sewage
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
+
 Water treatment of industrial wastewater
 ++++++++++
 
@@ -25,12 +26,25 @@ Water treatment of industrial wastewater
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Set codification:                                       |                                                           |
+| Set codification:                                       |CRVTRATINDYSERV                                            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Description:                                            |Water treatment of industrial wastewater                   |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data on emissions is based on #####
+
+
+
+.. figure::  parameters/CRVTRATINDYSERV_Emission_Act_Ratio.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
 
 
 Septic tank
@@ -41,12 +55,25 @@ Septic tank
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Set codification:                                       |                                                           |
+| Set codification:                                       |CRPOZOSRUR                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Description:                                            |Septic Tank                                                |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data on emissions is based on #####
+
+
+
+.. figure::  parameters/CRPOZOSRUR_Emission_Act_Ratio.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRPOZOSRUR_Emission_Act_Ratio.csv>`
 
 Water treatment of wastewater from human consumption
 ++++++++++
@@ -56,12 +83,25 @@ Water treatment of wastewater from human consumption
 |    :align:   center                                                                                                 |
 |    :width:   500 px                                                                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-| Set codification:                                       |                                                           |
+| Set codification:                                       |CRVTRATCOHUMANO                                            |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Description:                                            |Water treatment of wastewater from human consumption       |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 | Set:                                                    |Technology                                                 |
 +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data on emissions is based on #####
+
+
+
+.. figure::  parameters/CRVTRATCOHUMANO_Emission_Act_Ratio.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Emission Activity Ratio of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATCOHUMANO_Emission_Act_Ratio.csv>`
 
 
 Water without treatment
