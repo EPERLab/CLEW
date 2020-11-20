@@ -21,7 +21,7 @@ Water Demands
 SpecifiedAnnualDemand[r,t,y]
 ---------
 
-.. figure::  parameters/Water_Human_Consumtion_Specified_Annual_Demandd.png
+.. figure::  parameters/Water_Human_Consumtion_Specified_Annual_Demand.png
    :align:   center
    :width:   550 px
    
