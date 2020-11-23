@@ -6,6 +6,11 @@
 1.1 Projects overview
 +++++++++
 
+The creation of CLEW-CR is part of the ”Development and assessment of decarbonization pathways to inform dialogue with Costa Rica regarding the updating process of Nationally Determined Contribution (NDC)” project, which was contracted by the World Bank Group for the Directorate of Climate Change (DCC) of the Ministry of Environment and Energy in Costa Rica (MINAE). This project involved the development of land-use and water models of Costa Rica, and the integration of them with a pre-existing energy model in the Open Source energy Modelling System (OSeMOSYS). The purpose of the CLEW-CR model is to evaluate cost-benefits of mitigation strategies in all three sectors. The CLEW-CR team is composed by researchers from the University of Costa Rica (UCR) and the Royal Institute of Technology (KTH) in Stockholm.
+
+The energy module of CLEW-CR started as part of the “Deep Decarbonization Pathways Project in Latin America and the Caribbean (DDPP-LAC)” project, which is coordinated by the Institute for Sustainable Development and International Relations (IDDRI) and the Inter-American Development Bank (IADB). The project involves six different teams, and each team is formed by experts from a Latin American (LA) country (Argentina, Colombia, Costa Rica, Ecuador, Mexico, and Peru) and experts from other countries (France, USA, Sweden and Brazil). The main purpose of these alliances is to transfer capacities from one country to another, while engaging with policy makers to address a modeling aspect of local importance.
+
+In addition, the development of this energy module has been supported by the project “Assessing Options to Decarbonize the Transport Sector under Technological Uncertainty: The Case of Costa Rica”. This work was contracted by the Interamerican Development Bank (IADB) for the DCC-MINAE. The project aimed at developing a framework to evaluate mitigation actions in the Costa Rican transport sector that contribute to achieve the deep decarbonization, considering its uncertainty and socioeconomic impact, and implementing it in OSeMOSYS-CR to evaluate multiple climate actions towards a clean transport sector.
 
 1.2 Motivation and problem statement
 +++++++++
