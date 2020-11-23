@@ -6,6 +6,12 @@ This documentation has been created in order to provide an overview of CLEW-CR. 
 2.1 General model structure 
 +++++++++
 
+.. figure::  parameters/Land_diagram.PNG
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Forest* 
+
 
 2.2 Sets 
 +++++++++
