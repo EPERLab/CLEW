@@ -6,7 +6,7 @@ This documentation has been created in order to provide an overview of CLEW-CR. 
 2.1 General model structure 
 +++++++++
 
-.. figure::  doc_imags/Land_diagram.PNG
+.. figure::  doc_imgs/Land_diagram.PNG
    :align:   center
    :width:   550 px
    
