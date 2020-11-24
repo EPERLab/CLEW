@@ -135,7 +135,7 @@ AnnualActivityLowerLimit[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: AnnualActivityLowerLimit of Septic tanks* :download:`. <csv/CRPOZOSRURFUT_Activity_Lo.csv>`
+   *Figure: Annual Activity Lower Limit of Septic tanks* :download:`. <csv/CRPOZOSRURFUT_Activity_Lo.csv>`
 
 
 Water treatment of wastewater from human consumption
@@ -193,7 +193,7 @@ AnnualActivityLowerLimit[r,t,e,m,y]
    :align:   center
    :width:   550 px
    
-   *Figure: AnnualActivityLowerLimit of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATFUTCOHUMANOActivity_Lo.csv>`
+   *Figure: Annual Activity Lower Limit of Water treatment of wastewater from human consumption* :download:`. <csv/CRVTRATFUTCOHUMANOActivity_Lo.csv>`
 
 Water without treatment
 ++++++++++
