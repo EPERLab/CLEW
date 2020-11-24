@@ -1,8 +1,6 @@
 Water: Precipitation
 ==================================
 
-
-
 Precipitation
 ++++++++++
 
@@ -24,7 +22,7 @@ Precipitation
 TotalTechnologyAnnual Activity[r,t,y]
 ---------
 
-Due to the scale of the model (national), a homogeneous precipitation is assumed at the spatial level in units of cubic kilometers per megahectare (km3/Mha), de data is based on the Geophysical Research Center (CIGEFI) Regional Climate Model.
+A homogeneous precipitation is assumed at the spatial level in units of cubic kilometers per megahectare (km3/Mha), de data is based on the Regional Climate Model by the Geophysical Research Center (CIGEFI).
 
 
 .. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
@@ -36,7 +34,7 @@ Due to the scale of the model (national), a homogeneous precipitation is assumed
 CapacityFactor[r,t,y]
 ---------
 
-The seasonal patterns of precipitation were added. The Capacity Factor is the relationship given between the accumulated precipitation of the season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
+The Capacity Factor is the relationship given between the accumulated precipitation of the season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
 
 .. math::
 
