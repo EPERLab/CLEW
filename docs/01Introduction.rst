@@ -15,11 +15,26 @@ In addition, the development of this energy module has been supported by the pro
 1.2 Motivation and problem statement
 +++++++++
 
+Costa Rica is a Latin American country worldwide known for its environmental protection, political, social and economic stability, and renewable electricity generation. Despite these achievements, there are many challenges to tackle in order to decarbonise its economy. The CLEWCR model aims at supporting policymakers in Costa Rica to understand the most suitable strategies to achieve a deep decarbonization pathways in the land-use, energy, transport and water treatment sectors. In order to achieve this, CLEWCR presents two typical scenarios of interest: a BAU scenario representing current trends of actions and policies, and a National Decarbonization Plan (NDP) policy decarbonization scenario.
+
+The CLEW-CR model aims at representing the main interconnections between the Climate, Land, Energy and Water sectors and the society needs, i.e., the CLEWs nexus. The framework consists of an existing energy model, two new land and water models and the inclusion of climate variables such as precipitation. While each modeling frameworks characterize the corresponding sectors, their integration allow a broader, economy-wide assessment of different policy measures as the CLEW model captures their interactions and optimizes the overall cost of the system subject to restrictions.
+
+.. figure::  doc_imgs/General_diagram.PNG
+   :align:   center
+   :width:   550 px
+   
+   *Figure: CLEWCR model and the nexus concept* 
+
+Each module is built on OSeMOSYS based upon two general components: technologies (or processes) and fuels (or products/goods). The processes include, but are not limited to, the purification and distribution of water, the generation of electricity, and the production of pineapple and ethanol. On the other hand, examples of fuels are superficial water, electricity, electric vehicles and produced coffee. Every process is associated to input and output fuels. 
+
+In addition, processes are described by a wide variety of parameters that allow a realistic modelling. These parameters are related to aspects such as costs, capacity, lifetime, implementation limits or targets, emissions factors in the case of processes and demands, and availability in the case of fuels. Parameters such as demands can vary over the different time slides considered in the modelling, and emission targets can be included. This Read the Docs presents this information. Each one of these parameters are included according to the structure of OSeMOSYS.
 
 1.3 The Open Source energy Modelling System (OSeMOSYS)
 +++++++++
 
-OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies :cite:`HOWELLS20115850`. This is shown in the following equation: 
+OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. 
+
+The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies :cite:`HOWELLS20115850`. This is shown in the following equation: 
 
 .. math::
 
