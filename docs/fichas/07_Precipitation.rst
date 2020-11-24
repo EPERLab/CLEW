@@ -19,6 +19,15 @@ Precipitation
   | Set:                                                    |Technology                                                 |
   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
   
+TotalTechnologyAnnual Activity[r,t,y]
+---------
+
+
+.. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Total Technology Annual Activity Capacity Factor* :download:`. <csv/Precipitation_TotalTechnologyAnnualActivity.csv>`
 
 CapacityFactor[r,t,y]
 ---------
@@ -30,14 +39,6 @@ CapacityFactor[r,t,y]
    
    *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactor.csv>`
 
-TotalTechnologyAnnual Activity[r,t,y]
----------
 
-
-.. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
-   :align:   center
-   :width:   550 px
-   
-   *Figure: Total Technology Annual Activity Capacity Factor* :download:`. <csv/Precipitation_TotalTechnologyAnnualActivity.csv>`
 
 
