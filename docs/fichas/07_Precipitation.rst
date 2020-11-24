@@ -36,7 +36,7 @@ Due to the scale of the model (national), a homogeneous precipitation is assumed
 CapacityFactor[r,t,y]
 ---------
 
-The seasonal patterns of precipitation were added. The Capacity Factor is the relationship given between the accumulated precipitation of the season, in this case dry or rainy, and the annual amount. This parameter is based on the following equation:
+The seasonal patterns of precipitation were added. The Capacity Factor is the relationship given between the accumulated precipitation of the season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
 
 .. math::
 
