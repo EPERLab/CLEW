@@ -19,7 +19,7 @@ Costa Rica is a Latin American country worldwide known for its environmental pro
 
 The CLEW-CR model aims at representing the main interconnections between the Climate, Land, Energy and Water sectors and the society needs, i.e., the CLEWs nexus. The framework consists of an existing energy model, two new land and water models and the inclusion of climate variables such as precipitation. While each modeling frameworks characterize the corresponding sectors, their integration allow a broader, economy-wide assessment of different policy measures as the CLEW model captures their interactions and optimizes the overall cost of the system subject to restrictions.
 
-.. figure::  doc_imgs/General_diagram.PNG
+.. figure::  doc_imgs/General_diagram.png
    :align:   center
    :width:   550 px
    
