@@ -59,13 +59,12 @@ The sets are responsible for defining the structure of the model (i.e. temporal 
 
 This corresponds to the period of analysis. For CLEWCR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
 
-2.2.2 Fuels
+2.2.2 Fuels and technologies
 ---------
 
-2.2.3 Technologies
----------
+A complete list of the fuels and technologies of the land-use module can be found in the annexes. 
 
-2.2.4 Emissions
+2.2.3 Emissions
 ---------
 +---------------------+--------------------------------------------------+
 | Emission            | Description                                      |
@@ -91,12 +90,12 @@ This corresponds to the period of analysis. For CLEWCR it is from 2015 to 2050. 
 |SE_WET_MOIST_Forest  | L_Ecosystem services from Moist Forest           |
 +---------------------+--------------------------------------------------+
 
-2.2.5 Mode of operation
+2.2.4 Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system.
 
-2.2.6 Region
+2.2.5 Region
 ---------
     
 The model has a nationwide scope, therefore it only has one region: Costa Rica (CR). 
