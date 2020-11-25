@@ -34,6 +34,7 @@ For residential, commercial and turism Water Specified Annual Demand, an average
 
    Human consumption demand =  Consumption per capita * population
 
+
 .. figure::  parameters/Human_Consumtion_Specified_Annual_Demand.png
    :align:   center
    :width:   550 px
