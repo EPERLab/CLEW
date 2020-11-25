@@ -7,14 +7,40 @@ The land sector is a cross-cutting topic in the decarbonization plan. However, i
 - Line of action 9 - Consolidation of an eco-competitive livestock model based on productive efficiency and reduction of greenhouse gases.
 - Line of action 10 -Management of rural, urban and coastal territories that considers nature-based solutions (Conservation of forests and ecosystems).
 
-Based upon these, the modeling framework structure is divided into six different land covers: 
-
-- Forests: 
-   - Forest plantations
-   - Dry forest
+The land-use module aims at representing and quantifying cover changes, livestock and crops yields, changes in emissions as a result of different production practices, ecosystem services, production costs, local production, exports, imports and demands, among other factors. 
 
 2.1 General model structure 
 +++++++++
+
+Based upon these, the modeling framework structure is divided into six different land covers: 
+
+-Crops: 
+   - Rice.
+   - Banana.
+   - Coffee.
+   - Sugar cane. 
+   - Palm oil. 
+   - Pineapple. 
+   - Other agricultural products. 
+   
+- Grassland: 
+   - Meat. 
+   - Milk. 
+   
+- Forests: 
+   - Mangroves primary and secondary forest.
+   - Moist primary and secondary forest.
+   - Palm primary and secondary forest. 
+   - Moist primary and secondary forest. 
+   - Dry primary and secondary forest.
+   - Wet primary and secondary forest.
+   - Forest plantations (timber production).
+   
+ - Urban areas. 
+ 
+ - Other covers. 
+ 
+Overall, the land-use modeling framework represents supply chains of goods and services produced by the different land cover/use system types. In this context, land supply, demand, and land use change are conditioned by, for the most part, on national and international market forces, policies, institutional factors and production schemes yield. 
 
 .. figure::  doc_imgs/Land_diagram.PNG
    :align:   center
@@ -26,12 +52,12 @@ Based upon these, the modeling framework structure is divided into six different
 2.2 Sets 
 +++++++++
 
-The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of OSeMOSYS-CR.  
+The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of CLEWCR.  
 
 2.2.1 Year
 ---------
 
-This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
+This corresponds to the period of analysis. For CLEWCR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
 
 2.2.2 Fuels
 ---------
