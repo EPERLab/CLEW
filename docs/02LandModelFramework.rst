@@ -9,7 +9,9 @@ The land sector is a cross-cutting topic in the decarbonization plan. However, i
 
 Based upon these, the modeling framework structure is divided into six different land covers: 
 
-
+- Forests: 
+   - Forest plantations
+   - Dry forest
 
 2.1 General model structure 
 +++++++++
