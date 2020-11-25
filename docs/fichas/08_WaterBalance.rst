@@ -23,7 +23,7 @@ Water Balance
 Superficial water return
 ++++++++++
 
-The general percentage is based on information from the 2015 Water Account of the BCCR.
+The general percentage of water supply by superficial water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
 
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
@@ -44,6 +44,8 @@ ResidualCapacity[r,t,y]
 
 Underground water return
 ++++++++++
+
+The general percentage of water supply by Underground water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
 
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
@@ -67,4 +69,4 @@ ResidualCapacity[r,t,y]
 EVAPOTRANSPIRATION
 ++++++++++
 
-The general percentage is based on onformation from the 2015 Water Account of the BCCR. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
+The general percentage of water supply by evapotranspiration is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
