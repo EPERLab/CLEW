@@ -4,7 +4,7 @@ Water: Demands
 Water Demands
 ++++++++++
 
-Of the total demand for water resources, one part is effectively consumed and the other becomes wastewater. To establish this distribution, the percentages of actual consumption assumed in the Central Bank of Costa Rica's water account were used. The projections were made based on data from the National Plan for Integrated Water Resources Management and from the model projections of the land use and energy sectors, corresponding to the extension of crops and the growth of hydroelectric generation plants, specifically.
+The Water Demand corresponds to the current and future demand of water resources for each user sector and it is given in cubic kilometers [km3]. In the total demand of water resources, one part is effectively consumed and the other becomes wastewater. To establish this distribution, the percentages of actual consumption assumed in the Central Bank of Costa Rica's water account were used. The projections were made based on data from the National Plan for Integrated Water Resources Management and from the model projections of Land Use and Energy Sectors, corresponding to the extension of crops and the growth of hydroelectric generation plants, specifically.
 
 .. table::
    :align:   center  
@@ -28,7 +28,7 @@ Of the total demand for water resources, one part is effectively consumed and th
 SpecifiedAnnualDemand[r,t,y]
 ---------
 
-For residential, commercial and turism Water Specified Annual Demand, an average per capita consumption was established from the Central Bank of Costa Rica's water account data between 2012-2015 and multiplied by the National Institute of Statistics and Censuses of Costa Rica population projections, as shown in the following equation:
+For residential, commercial and turism Water Specified Annual Demand, an average per capita consumption was established from the Central Bank of Costa Rica's water account data between 2012-2015 and multiplied by the population projections of the National Institute of Statistics and Censuses of Costa Rica, as shown in the following equation:
 
 .. math::
 
