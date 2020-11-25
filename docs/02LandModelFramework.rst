@@ -36,9 +36,9 @@ Based upon these, the modeling framework structure is divided into six different
    - Wet primary and secondary forest.
    - Forest plantations (timber production).
    
-- *Urban areas.* 
+- **Urban areas.** 
  
-- *Other covers.* 
+- **Other covers.** 
  
 Overall, the land-use modeling framework represents supply chains of goods and services produced by the different land cover/use system types. In this context, land supply, demand, and land use change are conditioned by, for the most part, on national and international market forces, policies, institutional factors and production schemes yield. 
 
