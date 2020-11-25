@@ -4,7 +4,6 @@ Water: Water Distribution
 Water Distribution
 ++++++++++
 
-
 .. table::
    :align:   center  
 
@@ -22,6 +21,7 @@ Water Distribution
 
 ResidualCapacity[r,t,y]
 ---------
+It is assumed that the capacity is equal to the activity of the technologies. 
 
 .. figure::  parameters/CRREDACUED_Residual_Capacity.png
    :align:   center
@@ -32,9 +32,7 @@ ResidualCapacity[r,t,y]
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on the ..... In new technologies of water distribution the emission activity ratio remains the same. 
-
-
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 .. table::
    :align:   center  
@@ -47,9 +45,7 @@ The data on emissions is based on the ..... In new technologies of water distrib
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
-
-
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
 
 .. table::
    :align:   center  
