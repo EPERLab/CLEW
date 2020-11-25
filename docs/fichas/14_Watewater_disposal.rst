@@ -70,7 +70,7 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on #####
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 
 
@@ -116,9 +116,7 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on #####
-
-
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 .. figure::  parameters/CRPOZOSRUR_Emission_Act_Ratio.png
    :align:   center
@@ -174,7 +172,7 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on #####
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 
 
@@ -219,7 +217,7 @@ Water without treatment
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on #####
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 
 .. figure::  parameters/CRVSINTRAT_Emission_Act_Ratio.png
