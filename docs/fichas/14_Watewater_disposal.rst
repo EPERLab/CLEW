@@ -58,8 +58,7 @@ Water treatment of industrial wastewater
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
-
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
 
 .. table::
    :align:   center  
@@ -103,7 +102,7 @@ Septic tank
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
 
 
 .. table::
@@ -127,6 +126,8 @@ The data of emissions is based on the National Inventory of Greenhouse Gases and
    
 AnnualActivityLowerLimit[r,t,e,m,y]
 ---------
+
+The Annual Activity is based on information from the National Policy on Wastewater Sanitation, as well as information from the BCCR Water Account 2015. 
 
 .. figure::  parameters/CRPOZOSRURFUT_Activity_Lo.png
    :align:   center
@@ -156,7 +157,7 @@ AnnualActivityLowerLimit[r,t,e,m,y]
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
 
 
 .. table::
@@ -207,7 +208,6 @@ Water without treatment
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 
 
 EmissionActivityRatio[r,t,e,m,y]
