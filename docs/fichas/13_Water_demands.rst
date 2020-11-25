@@ -33,7 +33,12 @@ For residential, commercial and turism Water Specified Annual Demand, an average
 .. math::
 
    Human consumption demand =  Consumption per capita * population
-
+   
+.. figure::  parameters/Human_Consumtion_Specified_Annual_Demand.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Human Consumtion Specified Annual Demand* :download:`. <csv/Human_Consumtion_Specified_Annual_Demand.csv>`
   
    
   The projections of the Industrial Water Specified Annual Demand is estimated from the annual growth established by the National Plan for Integrated Water Resources Management.
