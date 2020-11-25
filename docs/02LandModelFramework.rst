@@ -42,7 +42,7 @@ Based upon these, the modeling framework structure is divided into six different
  
 Overall, the land-use modeling framework represents supply chains of goods and services produced by the different land cover/use system types. In this context, land supply, demand, and land use change are conditioned by, for the most part, on national and international market forces, policies, institutional factors and production schemes yield. 
 
-.. figure::  doc_imgs/Land__diagram.PNG
+.. figure::  doc_imgs/Land__diagram.png
    :align:   center
    :width:   700 px
    
