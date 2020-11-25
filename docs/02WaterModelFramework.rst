@@ -6,10 +6,14 @@ In this section, we give an insight to the general framework of the water module
 4.1 General model structure 
 +++++++++
 
+.. figure::  doc_imgs/Water__diagram.png
+   :align:   center
+   :width:   700 px
+   
+   *Figure: General structure of the water module of CLEWCR* 
 
 4.2 Sets 
 +++++++++
-
 
 The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of CLEWCR.  
 
