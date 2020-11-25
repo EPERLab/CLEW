@@ -22,7 +22,7 @@ Potabilization
 ResidualCapacity[r,t,y]
 ---------
 
-Here, the residual capacity is understood as ...
+It is assumed that the residual capacity is equal to the activity of each technology. 
 
 .. table::
    :align:   center  
@@ -34,7 +34,7 @@ Here, the residual capacity is understood as ...
 FixedCost[r,t,y]
 ---------
 
-The FixedCost ###
+The FixedCost is based on data from the Institute of Aqueducts and Sewers. 
 
 
 .. table::
