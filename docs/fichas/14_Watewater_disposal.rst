@@ -127,10 +127,8 @@ The data of emissions is based on the National Inventory of Greenhouse Gases and
    
    *Figure: Emission Activity Ratio of Septic tanks* :download:`. <csv/CRPOZOSRUR_Emission_Act_Ratio.csv>`
    
-   AnnualActivityLowerLimit[r,t,e,m,y]
+AnnualActivityLowerLimit[r,t,e,m,y]
 ---------
-
- #####
 
 .. figure::  parameters/CRPOZOSRURFUT_Activity_Lo.png
    :align:   center
