@@ -32,9 +32,15 @@ In addition, processes are described by a wide variety of parameters that allow 
 1.3 The Open Source energy Modelling System (OSeMOSYS)
 +++++++++
 
-OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. 
+OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. Each of these blocks of functionality (the technologies) is parametrized according to several input parameters that are available available. 
 
-The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering some restrictions on activity, capacity, and emissions of technologies :cite:`HOWELLS20115850`. This is shown in the following equation: 
+.. figure::  doc_imgs/Technology.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: OSeMOSYS parametrization* 
+
+The models that are built in OSeMOSYS minimize the total cost of the system for a certain period of time, defining the configuration of the supply system, considering the restrictions on activity, capacity, and emissions of technologies set by the parameters :cite:`HOWELLS20115850`. This is shown in the following equation: 
 
 .. math::
 
@@ -54,3 +60,5 @@ where:
 *	*DCI (Discounted Capital Investment):* It is the cost of investment of all technologies selected to supply energy on the whole period. 
 *	*DTEP (Discounted Technology Emission Penalty):* It is associated to the use of pollutants. The calculation is based on the emission factor and the activity of technologies and the specific cost by pollutant.    
 *	*DSV (Discounted Salvage Value):* As the capital cost is discounted in the first year a technology is acquired, if in the last year of study the technologies have remaining years of operational life, the corresponding value is counted.
+
+The general `documentation of OSeMOSYS <https://osemosys.readthedocs.io/en/latest/manual/Structure%20of%20OSeMOSYS.html>`_ is also available.  
