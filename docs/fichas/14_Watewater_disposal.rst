@@ -55,5 +55,17 @@ Water treatment of industrial wastewater
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 
+CapitalCost[r,t,y]
+---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 605,2 MUS$/km3                                            |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
 
