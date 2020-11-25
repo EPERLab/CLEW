@@ -1,7 +1,7 @@
 Water: Wastewater disposal
 ==================================
 
-Sewage
+The structure of Discharges and wastewater treatment is based on the National Policy on Wastewater Sanitation Sewage. 
 ++++++++++
 
 
@@ -23,7 +23,7 @@ Sewage
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan. 
 
 
 .. table::
