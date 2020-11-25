@@ -1,7 +1,7 @@
 4. Water model: Framework 
 =======================================
 
-In this section, we give an insight to the general framework of the water module of CLEWCR.
+In this section, we give an insight to the general framework of the water module of CLEWCR. The water sector is a cross-cutting topic in the decarbonization plan, and it is explicitly considered in the 7th line of action: Development of an integrated waste management system based in the separation, reuse, revaluation, and high  efficiency and low-GHG final disposal.
 
 4.1 General model structure 
 +++++++++
