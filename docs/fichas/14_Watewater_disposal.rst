@@ -82,3 +82,22 @@ The data of emissions is based on the National Inventory of Greenhouse Gases and
    *Figure: Emission Activity Ratio of Water treatment of industrial wastewater* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
 
 
+
+
+Septic tank
+++++++++++
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | .. figure:: img/img_water_septic_tank.png                                                                           |
+   |    :align:   center                                                                                                 |
+   |    :width:   500 px                                                                                                 |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Set codification:                                       |CRPOZOSRUR                                                 |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Description:                                            |Septic Tank                                                |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Set:                                                    |Technology                                                 |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
