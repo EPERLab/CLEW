@@ -1,7 +1,7 @@
 2. Land model: Framework 
 =======================================
 
-The land sector is a cross-cutting topic in the decarbonization plan. However, it is explicitly considered in the last three lines of actions: 
+In this section, we give an insight to the general structure of the land-use module of CLEWCR. The land-use sector is a cross-cutting topic in the decarbonization plan. However, it is explicitly considered in the last three lines of actions: 
 
 - Line of action 8 - The promotion of efficient agricultural food systems that generate low-carbon local export goods and consumption.
 - Line of action 9 - Consolidation of an eco-competitive livestock model based on productive efficiency and reduction of greenhouse gases.
