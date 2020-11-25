@@ -22,7 +22,7 @@ Precipitation
 TotalTechnologyAnnual Activity[r,t,y]
 ---------
 
-A homogeneous precipitation is assumed at the spatial level in units of cubic kilometers per megahectare (km3/Mha), de data is based on the Regional Climate Model by the Geophysical Research Center (CIGEFI).
+A homogeneous precipitation per season is assumed at the spatial level, in units of cubic kilometers per megahectare (km3/Mha). The data is based on the Regional Climate Model by the Geophysical Research Center (CIGEFI).
 
 
 .. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
@@ -34,7 +34,7 @@ A homogeneous precipitation is assumed at the spatial level in units of cubic ki
 CapacityFactor[r,t,y]
 ---------
 
-The Capacity Factor is the relationship given between the accumulated precipitation of the season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
+The Capacity Factor is the relationship given between the accumulated precipitation of each season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
 
 .. math::
 
