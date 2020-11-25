@@ -50,7 +50,7 @@ The projections of the Industrial Water Specified Annual Demand is estimated fro
    
    *Figure: Industrial Water Specified Annual Demand* :download:`. <csv/Industrial_Specified_Annual_Demand.csv>`
    
-For the Water Specified Annual Demand for hydroelectricity, the water requirement for each kWh generated in 2016 was calculated and the result was multiplied by the projections of the energy model. The following equation shows the calculation:  
+The Water Specified Annual Demand for hydroelectricity is Based on the National Energy Control Center (CENCE) reports and energy model projections. 
 
 .. math::
 
@@ -63,7 +63,7 @@ For the Water Specified Annual Demand for hydroelectricity, the water requiremen
     
    *Figure: Water Specified Annual Demand for hydroelectricity* :download:`. <csv/Hidro_Consumtion_Specified_Annual_Demand.csv>`  
    
-The calculation of the water demand for the agricultural sector is based on the water requirements per crop (blue, green and gray water footprint) obtained from $$$$$$$$$$$$$$$ in cubic kilometers per megahectare (km3 / Mha) and the projections of coverage of the land use model, as shown in the following equation:
+The calculation of the water demand for the agricultural sector is based on the water footprint of crops, the data is obtenied from the National University and from internation reports. The coverage projections of the land use model are calculated as shown below:
 
 .. math::
 
