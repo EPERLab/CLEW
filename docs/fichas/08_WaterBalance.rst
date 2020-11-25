@@ -23,6 +23,8 @@ Water Balance
 Superficial water return
 ++++++++++
 
+The general percentage is based on information from the 2015 Water Account of the BCCR.
+
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
 .. figure::  parameters/CRRETSUP_Activity_Lo.png
@@ -62,5 +64,7 @@ ResidualCapacity[r,t,y]
    *Figure: Residual Capacity for Underground water return* :download:`. <csv/CRRETSUB_Residual_Capacity.csv>`
 
 
-EVAPO?
+EVAPOTRANSPIRATION
 ++++++++++
+
+The general percentage is based on onformation from the 2015 Water Account of the BCCR. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
