@@ -1,7 +1,15 @@
 2. Land model: Framework 
 =======================================
 
-This documentation has been created in order to provide an overview of CLEW-CR. Therefore, it presents the model structure, and gives a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, in this section, we give an insight to the general framework of the model.
+The land sector is a cross-cutting topic in the decarbonization plan. However, it is explicitly considered in the last three lines of actions: 
+
+- Line of action 8 - The promotion of efficient agricultural food systems that generate low-carbon local export goods and consumption.
+- Line of action 9 - Consolidation of an eco-competitive livestock model based on productive efficiency and reduction of greenhouse gases.
+- Line of action 10 -Management of rural, urban and coastal territories that considers nature-based solutions (Conservation of forests and ecosystems).
+
+Based upon these, the modeling framework structure is divided into six different land covers: 
+
+
 
 2.1 General model structure 
 +++++++++
