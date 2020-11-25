@@ -47,7 +47,7 @@ The FixedCost is based on data from the Institute of Aqueducts and Sewers.
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data on emissions is based on the ..... In new technologies for potabilization the emission activity ratio remains the same. 
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
 
 
 .. table::
