@@ -46,7 +46,7 @@ Overall, the land-use modeling framework represents supply chains of goods and s
    :align:   center
    :width:   550 px
    
-   *Figure: Forest* 
+   *Figure: General structure of the land-use module of CLEWCR* 
 
 
 2.2 Sets 
