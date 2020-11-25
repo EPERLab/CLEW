@@ -1,29 +1,29 @@
-2. Water model: Framework 
+4. Water model: Framework 
 =======================================
 
-This documentation has been created in order to provide an overview of CLEW-CR. Therefore, it presents the model structure, and gives a synthesis of the key assumptions of the model, regarding the numerical inputs used for the sets, parameters, and scenario building. First, in this section, we give an insight to the general framework of the model.
+In this section, we give an insight to the general framework of the water module of CLEWCR.
 
-2.1 General model structure 
+4.1 General model structure 
 +++++++++
 
 
-2.2 Sets 
+4.2 Sets 
 +++++++++
 
-The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of OSeMOSYS-CR.  
 
-2.2.1 Year
+The sets are responsible for defining the structure of the model (i.e. temporal space, geographic space, elements of the system, etc.). In OSeMOSYS, the group of sets include: years, fuels, technologies, emissions and modes of operation. As it going to be further explained, the sets are characterized through parameters. These subsections present the sets that compose the current version of CLEWCR.  
+
+4.2.1 Year
 ---------
 
-This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
+This corresponds to the period of analysis. For CLEWCR it is from 2015 to 2050. However, the data from 2015 to 2018 is set acccording to historical information. 
 
-2.2.2 Fuels
+4.2.2 Fuels and technologies
 ---------
 
-2.2.3 Technologies
----------
+A complete list of the fuels and technologies of the land-use module can be found in the :ref:`Codification` section. 
 
-2.2.4 Emissions
+4.2.3 Emissions
 ---------
 +---------------------+--------------------------------------------------+
 | Emissions           | Description                                      |
@@ -35,12 +35,12 @@ This corresponds to the period of analysis. For OSeMOSYS-CR it is from 2015 to 2
 |CR_A_ANC_salida      | Benefits in health of water treatment            |
 +---------------------+--------------------------------------------------+
 
-2.2.5 Mode of operation
+4.2.4 Mode of operation
 ---------
     
 The model has one mode of operation, Mode 1, for representing the normal operation of the system.
 
-2.2.6 Region
+4.2.5 Region
 ---------
     
 The model has a nationwide scope, therefore it only has one region: Costa Rica (CR). 
