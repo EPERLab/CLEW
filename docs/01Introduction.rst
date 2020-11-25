@@ -21,7 +21,7 @@ The CLEW-CR model aims at representing the main interconnections between the Cli
 
 .. figure::  doc_imgs/General_diagram.png
    :align:   center
-   :width:   250 px
+   :width:   350 px
    
    *Figure: CLEWCR model and the nexus concept* 
 
