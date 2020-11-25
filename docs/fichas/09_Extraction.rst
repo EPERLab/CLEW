@@ -22,7 +22,7 @@ Superficial extraction
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+The capital cost is given in MUS$ per km3. This information is based on international sources and projects of the Institute of Aqueducts and Sewers. 
 
 .. table::
    :align:   center  
@@ -34,7 +34,7 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
 FixCost[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+The fix cost is given in MUS$ per Mha. This information is a percentage of 43% of the capital cost was assumed
 
 .. table::
    :align:   center  
@@ -45,6 +45,7 @@ The fix cost is given in MUS$ per Mha. This information is based on reports of #
 
 ResidualCapacity[r,t,y]
 ---------
+It is assumed that the residual capacity is equal to the activity of each technology. 
 
 .. table::
    :align:   center  
@@ -57,7 +58,6 @@ ResidualCapacity[r,t,y]
 TotalAnnualMaxCapacity[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
 
 .. table::
    :align:   center  
@@ -66,6 +66,10 @@ The fix cost is given in MUS$ per Mha. This information is based on reports of #
    | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+OperationalLife[r,t,y]
+---------
+
+A 50-year lifespan was assigned to the new technologies. 
 
 Underground extraction
 ++++++++++
