@@ -62,7 +62,7 @@ This corresponds to the period of analysis. For CLEWCR it is from 2015 to 2050. 
 2.2.2 Fuels and technologies
 ---------
 
-A complete list of the fuels and technologies of the land-use module can be found in the :ref:`Model codification` section. 
+A complete list of the fuels and technologies of the land-use module can be found in the :ref:`Codification` section. 
 
 2.2.3 Emissions
 ---------
