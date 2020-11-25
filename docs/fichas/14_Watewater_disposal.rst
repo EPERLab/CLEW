@@ -68,4 +68,17 @@ The capital cost is given in MUS$ per Mha. This information is based on reports 
    | Constant Value                                          | 605,2 MUS$/km3                                            |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    
+   EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
+
+
+
+.. figure::  parameters/CRVTRATINDYSERV_Emission_Act_Ratio.png
+   :align:   center
+   :width:   550 px
+   
+   *Figure: Emission Activity Ratio of Water treatment of industrial wastewater* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
+
 
