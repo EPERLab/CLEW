@@ -25,14 +25,13 @@ The CLEW-CR model aims at representing the main interconnections between the Cli
    
    *Figure: CLEWCR model and the nexus concept* 
 
-Each module is built on OSeMOSYS based upon two general components: technologies (or processes) and fuels (or products/goods). The processes include, but are not limited to, the purification and distribution of water, the generation of electricity, and the production of pineapple and ethanol. On the other hand, examples of fuels are superficial water, electricity, electric vehicles and produced coffee. Every process is associated to input and output fuels. 
 
-In addition, processes are described by a wide variety of parameters that allow a realistic modelling. These parameters are related to aspects such as costs, capacity, lifetime, implementation limits or targets, emissions factors in the case of processes and demands, and availability in the case of fuels. Parameters such as demands can vary over the different time slides considered in the modelling, and emission targets can be included. This Read the Docs presents this information. Each one of these parameters are included according to the structure of OSeMOSYS.
-
-1.3 The Open Source energy Modelling System (OSeMOSYS)
+1.3 The Open Source energy Modelling System (OSeMOSYS) and CLEW-CR
 +++++++++
 
-OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. Each of these blocks of functionality (the technologies) is parametrized according to several input parameters that are available available. 
+OSeMOSYS is an optimization software for long-term energy planning. It is an open source model structured in blocks of functionality that allows easy modifications to the code, providing a great flexibility for the creative process of the solution. The models built on OSeMOSYS are based upon two general components: technologies (or processes) and fuels (or products/goods). In the case of CLEW-CR, the processes include, but are not limited to, the purification and distribution of water, the generation of electricity, and the production of pineapple and ethanol. On the other hand, examples of fuels are superficial water, electricity, electric vehicles and produced coffee. Every process is associated to input and output fuels. 
+
+In addition, processes are described by a wide variety of parameters that allow a realistic modelling. These parameters are related to aspects such as costs, capacity, lifetime, implementation limits or targets, emissions factors in the case of processes and demands, and availability in the case of fuels. Parameters such as demands can vary over the different time slides considered in the modelling, and emission targets can be included. For CLEW-CR, these parameters were included with the best available information, which is most of the time national data. The purpose of this read the docs is to present the data values and sources used to parametrized CLEW-CR. 
 
 .. figure::  doc_imgs/Technology.png
    :align:   center
