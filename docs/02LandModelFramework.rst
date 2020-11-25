@@ -44,7 +44,7 @@ Overall, the land-use modeling framework represents supply chains of goods and s
 
 .. figure::  doc_imgs/Land_diagram.PNG
    :align:   center
-   :width:   550 px
+   :width:   700 px
    
    *Figure: General structure of the land-use module of CLEWCR* 
 
