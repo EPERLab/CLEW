@@ -34,7 +34,7 @@ Homogeneous precipitation per station is assumed at national level, in units of 
 CapacityFactor[r,t,y]
 ---------
 
-The Capacity Factor is the relationship given between the accumulated precipitation of each season, in this case dry or wet, and the annual amount. This parameter is based on the following equation:
+The Capacity Factor is the relationship given between the accumulated precipitation of each season (dry or wet) and the annual amount. This parameter is based on the following equation:
 
 .. math::
 
