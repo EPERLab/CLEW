@@ -59,6 +59,7 @@ It is assumed that the residual capacity is equal to the activity of each techno
 TotalAnnualMaxCapacity[r,t,y]
 ---------
 
+The data is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA).
 
 .. table::
    :align:   center  
