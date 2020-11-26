@@ -37,7 +37,7 @@ The modeling framework is structued as follow:
    - Water treatment. 
       - From human consumption. 
       - Industrial. 
-   - Water with out treatment. 
+   - Water without treatment. 
 
 .. figure::  doc_imgs/Water__diagram.png
    :align:   center
