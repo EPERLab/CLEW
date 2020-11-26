@@ -32,7 +32,7 @@ It is assumed that the capacity is equal to the activity of the technologies.
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute (IMN). 
 
 .. table::
    :align:   center  
@@ -45,7 +45,7 @@ The data of emissions is based on the National Inventory of Greenhouse Gases and
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
+The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan, on international sources and on projects of the Institute of Aqueducts and Sewers (AYA).
 
 .. table::
    :align:   center  
@@ -57,7 +57,7 @@ The capital cost is given in MUS$ per km3. This information is based on the Nati
 FixedCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ... In new technologies of Urban Sewerage the capital cost remains the same.
+The fix cost is given in MUS$ per km3. This information is based on projects of the Institute of Aqueducts and Sewers (AYA).
 
 
 .. table::
