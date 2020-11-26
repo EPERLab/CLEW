@@ -13,6 +13,7 @@ The CLEWCR model
    00Abreviations
    01Introduction
    02LandModelFramework
+   02EnergyModelFramework
    02WaterModelFramework
    03Scenarios
    999Annexes
