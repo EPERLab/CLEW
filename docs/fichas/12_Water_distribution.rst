@@ -34,6 +34,19 @@ EmissionActivityRatio[r,t,e,m,y]
 
 The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute (IMN). 
 
+OutputActivityRatiot[r,t,y]
+---------
+
+The aqueduct network also includes losses due to leaks and illegal intakes, which correspond to 50%, so the output of this technology is 0.5, for current and future technologies. 
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 40%                                                       |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+
 .. table::
    :align:   center  
 
@@ -65,4 +78,16 @@ The fix cost is given in MUS$ per km3. This information is based on projects of 
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          |752.7 MUS$/km3                                             |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
+OutputActivityRatiot[r,t,y]
+---------
+
+The aqueduct network also includes losses due to leaks and illegal intakes, which correspond to 50%, so the output of this technology is 0.5, for current and future technologies. 
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 50%                                                       |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
