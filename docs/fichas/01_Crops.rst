@@ -5,6 +5,7 @@ The specific crops considered in the model were selected based on the area they 
 
 Rice crops
 ++++++++++
+
 .. table::
    :align:   center  
 
