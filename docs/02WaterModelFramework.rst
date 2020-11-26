@@ -9,9 +9,35 @@ In this section, we give an insight to the general framework of the water module
 The modeling framework is structued as follow:
 
 - Water availability: 
-   - Precipitation. 
-   Which is later devided in: 
+   - Precipitation.
       - Evapotranspiraton. 
+      - Surface runoff. 
+      - Groundwater recharge.
+      
+- Extraction: 
+   - Superficial extraction. 
+   - Underground extraction. 
+   
+- Potabilization. 
+
+- Irrigation. 
+
+- Concessions.
+
+- Water distribution. 
+
+- Water demands. 
+   - For human consumption. 
+   - Industrial. 
+   - For agriculture. 
+
+- Water disposal.    
+   - Sewage. 
+   - Septic tank.
+   - Water treatment. 
+      - From human consumption. 
+      - Industrial. 
+   - Water with out treatment. 
 
 .. figure::  doc_imgs/Water__diagram.png
    :align:   center
