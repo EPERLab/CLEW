@@ -87,4 +87,4 @@ The model has one mode of operation, Mode 1, for representing the normal operati
     
 The model has a nationwide scope, therefore it only has one region: Costa Rica (CR). 
   
-A more detailed documentation of this energy module, OSeMOSYS-CR, can be found in a separate `Read the docs <https://osemosys.readthedocs.io/en/latest/manual/Structure%20of%20OSeMOSYS.html>`.
+A more detailed documentation of this energy module, OSeMOSYS-CR, can be found in a separate `Read the docs <https://osemosys.readthedocs.io/en/latest/manual/Structure%20of%20OSeMOSYS.html>` .
