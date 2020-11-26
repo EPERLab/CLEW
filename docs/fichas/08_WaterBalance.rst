@@ -47,7 +47,7 @@ It is assumed that the residual capacity is equal to the activity of each techno
 Underground water return
 ++++++++++
 
-The general percentage of water supply by Underground water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
+The general percentage of water supply by underground water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
 
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
