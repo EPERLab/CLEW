@@ -23,7 +23,7 @@ Water Balance
 Superficial water return
 ++++++++++
 
-The general percentage of water supply by superficial water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
+The general percentage of water supply by superficial water return is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts.
 
 TotalTechnologyAnnualActivityLo[r,t,y]
 ---------
@@ -35,6 +35,8 @@ TotalTechnologyAnnualActivityLo[r,t,y]
 
 ResidualCapacity[r,t,y]
 ---------
+
+It is assumed that the residual capacity is equal to the activity of each technology.
 
 .. figure::  parameters/CRRETSUP_Residual_Capacity.png
    :align:   center
@@ -58,6 +60,7 @@ TotalTechnologyAnnualActivityLo[r,t,y]
 ResidualCapacity[r,t,y]
 ---------
 
+It is assumed that the residual capacity is equal to the activity of each technology.
 
 .. figure::  parameters/CRRETSUB_Residual_Capacity.png
    :align:   center
