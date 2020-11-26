@@ -12,7 +12,7 @@ The land-use module aims at representing and quantifying cover changes, livestoc
 2.1 General model structure 
 +++++++++
 
-Based upon these, the modeling framework structure is divided into six different land covers: 
+The modeling framework structure is divided into six different land covers: 
 
 - Crops: 
    - Rice.
