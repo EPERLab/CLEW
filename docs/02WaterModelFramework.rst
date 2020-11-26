@@ -6,6 +6,12 @@ In this section, we give an insight to the general framework of the water module
 4.1 General model structure 
 +++++++++
 
+The modeling framework is structued as follow:
+
+- Water availability: 
+   - Precipitation. Which is later devided in: 
+      - Evapotranspiraton. 
+
 .. figure::  doc_imgs/Water__diagram.png
    :align:   center
    :width:   700 px
