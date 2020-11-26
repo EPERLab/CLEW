@@ -66,7 +66,7 @@ ResidualCapacity[r,t,y]
    *Figure: Residual Capacity for Underground water return* :download:`. <csv/CRRETSUB_Residual_Capacity.csv>`
 
 
-EVAPOTRANSPIRATION
+Evapotranspiration
 ++++++++++
 
 The general percentage of water supply by evapotranspiration is based on information from the 2015 Central Bank of Costa Rica Water Account. The specific percentage by type of coverage is adjusted to match the percentage of environmental accounts. 
