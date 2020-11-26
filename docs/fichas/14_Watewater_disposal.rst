@@ -25,7 +25,7 @@ The structure of discharges and wastewater treatment is based on the National Po
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan. 
+The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan. 
 
 
 .. table::
@@ -58,7 +58,7 @@ Water treatment of industrial wastewater
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
+The capital cost of water treatment of industrial wastewater is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
 
 .. table::
    :align:   center  
@@ -71,7 +71,6 @@ EmissionActivityRatio[r,t,e,m,y]
 ---------
 
 The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
-
 
 
 .. figure::  parameters/CRVTRATINDYSERV_Emission_Act_Ratio.png
