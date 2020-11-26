@@ -4,7 +4,7 @@ Water: Demands
 Water Demands
 ++++++++++
 
-The Water Demand corresponds to the current and future demand of water resources for each user sector and it is given in cubic kilometers [km3]. In the total demand of water resources, one part is effectively consumed and the other becomes wastewater. To establish this distribution, the percentages of actual consumption assumed in the Central Bank of Costa Rica's water account were used. The projections were made based on data from the National Plan for Integrated Water Resources Management and from the model projections of Land Use and Energy Sectors, corresponding to the extension of crops and the growth of hydroelectric generation plants, specifically.
+The water demand corresponds to the current and future demand of water resources for each user sector and it is given in cubic kilometers [km3]. In the total demand of water resources, one part is effectively consumed and the other becomes wastewater. To establish this distribution the percentages of actual consumption assumed in the Central Bank of Costa Rica's water account is used. The projections are made based on data from the National Plan for Integrated Water Resources Management and from the model projections of Land Use and Energy Sectors, corresponding to the extension of crops and the growth of hydroelectric generation plants, specifically.
 
 .. table::
    :align:   center  
