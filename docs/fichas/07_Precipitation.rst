@@ -22,7 +22,7 @@ Precipitation
 TotalTechnologyAnnual Activity[r,t,y]
 ---------
 
-A homogeneous precipitation per season is assumed at the spatial level, in units of cubic kilometers per megahectare (km3/Mha). The data is based on the Regional Climate Model by the Geophysical Research Center (CIGEFI).
+Homogeneous precipitation per station is assumed at national level, in units of cubic kilometers per megahectare (km3/Mha). The data are based on the Regional Climate Model of the Center for Geophysical Research (CIGEFI).
 
 
 .. figure::  parameters/Precipitation_TotalTechnologyAnnualActivity.png
