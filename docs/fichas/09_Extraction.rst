@@ -1,6 +1,7 @@
 Water:  Extraction
 ==================================
 
+
 Superficial extraction
 ++++++++++
 
@@ -22,7 +23,7 @@ Superficial extraction
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on international sources and projects of the Institute of Aqueducts and Sewers. 
+The capital cost is given in MUS$ per km3. This information is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
 
 .. table::
    :align:   center  
@@ -34,7 +35,7 @@ The capital cost is given in MUS$ per km3. This information is based on internat
 FixCost[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per Mha. This information is a percentage of 43% of the capital cost was assumed
+The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of the capital cost as the fixed cost. 
 
 .. table::
    :align:   center  
@@ -92,6 +93,7 @@ Underground extraction
 
 CapitalCost[r,t,y]
 ---------
+The capital cost is given in MUS$ per km3. This information is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
 
 .. table::
    :align:   center  
@@ -104,7 +106,7 @@ CapitalCost[r,t,y]
 FixCost[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of the capital cost as the fixed cost. 
 
 .. table::
    :align:   center  
@@ -116,6 +118,7 @@ The fix cost is given in MUS$ per Mha. This information is based on reports of #
 
 ResidualCapacity[r,t,y]
 ---------
+
 
 .. table::
    :align:   center  
@@ -129,7 +132,7 @@ ResidualCapacity[r,t,y]
 TotalAnnualMaxCapacity[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per Mha. This information is based on reports of ################. It includes aspects such as ...
+The data is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
 
 .. table::
    :align:   center  
