@@ -42,7 +42,8 @@ Water: DRAT
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3, the data is based on the Arenal-Tempisque Irrigation Project and from the project of Water Supply for the Middle basin of the Tempisque River and Coastal Communities (PAACUME project. 
+The capital cost is given in MUS$ per km3, the data is based on the Arenal-Tempisque Irrigation Project and from the project of Water Supply for the Middle basin of the Tempisque River and Coastal Communities (PAACUME project).  
+
 .. table::
    :align:   center  
 
