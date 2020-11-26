@@ -40,7 +40,6 @@ The Capacity Factor is the relationship given between the accumulated precipitat
 
    Capacity factor = \frac{Accumulated Annual precipitation}{Accumulated precipitation per season}
    
-Where   
 
 .. figure::  parameters/Preci_CapacityFactor.png
    :align:   center
