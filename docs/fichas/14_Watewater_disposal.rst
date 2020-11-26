@@ -15,7 +15,7 @@ The structure of discharges and wastewater treatment is based on the National Po
    |    :align:   center                                                                                                 |
    |    :width:   500 px                                                                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRALCURB                                                   |
+   | Set codification:                                       |CRALCURB, CRALCURBFUT                                      |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Description:                                            |Sewage                                                     |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -25,7 +25,7 @@ The structure of discharges and wastewater treatment is based on the National Po
 CapitalCost[r,t,y]
 ---------
 
-The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan. 
+The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan, which applies for both current and future technologies.
 
 
 .. table::
@@ -47,7 +47,7 @@ Water treatment of industrial wastewater
    |    :align:   center                                                                                                 |
    |    :width:   500 px                                                                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRVTRATINDYSERV                                            |
+   | Set codification:                                       |CRVTRATINDYSERV, CRVTRATFUTINDYSERV                        |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Description:                                            |Water treatment of industrial wastewater                   |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -58,7 +58,7 @@ Water treatment of industrial wastewater
 CapitalCost[r,t,y]
 ---------
 
-The capital cost of water treatment of industrial wastewater is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
+The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan, which applies for both current and future technologies.
 
 .. table::
    :align:   center  
@@ -91,7 +91,7 @@ Septic tank
    |    :align:   center                                                                                                 |
    |    :width:   500 px                                                                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRPOZOSRUR                                                 |
+   | Set codification:                                       |CRPOZOSRUR, CRPOZOSRURFUT                                  |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Description:                                            |Septic Tank                                                |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -101,8 +101,7 @@ Septic tank
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
-
+The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan, which applies for both current and future technologies.
 
 .. table::
    :align:   center  
@@ -146,7 +145,7 @@ The Annual Activity is based on information from the National Policy on Wastewat
    |    :align:   center                                                                                                 |
    |    :width:   500 px                                                                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRVTRATCOHUMANO                                            |
+   | Set codification:                                       |CRVTRATCOHUMANO, CRVTRATFUTCOHUMANO                        |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Description:                                            |Water treatment of wastewater from human consumption       |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -156,7 +155,7 @@ The Annual Activity is based on information from the National Policy on Wastewat
 CapitalCost[r,t,y]
 ---------
 
-The capital cost is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan.
+The capital cost of wastewater disposal is given in MUS$ per km3. This information is based on the National Sanitation Investment Plan, which applies for both current and future technologies.
 
 
 .. table::
@@ -191,7 +190,6 @@ AnnualActivityLowerLimit[r,t,e,m,y]
 
 Water without treatment
 ++++++++++
-
 
 .. table::
    :align:   center  
