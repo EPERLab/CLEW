@@ -65,8 +65,11 @@ A complete list of the fuels and technologies of the land-use module can be foun
 4.2.3 Emissions
 ---------
 
-*Table: Summary of emissions included in the energy module of CLEWCR.*
+*Table: Summary of emissions included in the water module of CLEWCR.*
 
+.. table::
+   :align:   center 
+   
 +---------------------+--------------------------------------------------+
 | Emissions           | Description                                      |
 +=====================+==================================================+
