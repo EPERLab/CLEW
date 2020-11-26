@@ -1,6 +1,8 @@
 Water: Potibilization
 ==================================
 
+The water treatment inputs correspond to the proportion of superficial and underground extraction that is carried out for this activity. Similarly, the activity requires an energy component, which is entered in units of petajoules per cubic kilometer (PJ/km3). These data is assigned to current and future technologies and remained constant throughout the time series. 
+
 Potabilization
 ++++++++++
 
