@@ -47,8 +47,8 @@ Table 2.3 shows a description of the emissions included in the model. In general
 
 *Table: Summary of emissions included in the energy module of CLEWCR.*
 
-.. table:: 
-   :align:   center
+.. table::
+   :align:   center 
    
 +-----------------+--------------------------------------------+
 | Code            | Name                                       |                                                                 
