@@ -22,7 +22,9 @@ The modeling framework is structued as follow:
 
 - Irrigation. 
 
-- Concessions.
+- Concessions: 
+   -Industrial. 
+   - For agriculture. 
 
 - Water distribution. 
 
