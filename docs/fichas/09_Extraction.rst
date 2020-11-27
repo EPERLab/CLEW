@@ -69,10 +69,24 @@ The data is based on international sources and projects of the Costa Rican Insti
    | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+TotalAnnualMaxCapacity[r,t,y]
+---------
+
+The data is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
+
+.. table::
+   :align:   center  
+   
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 2.924 [km3]                                               |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
 OperationalLife[r,t,y]
 ---------
 
 A 50-year lifespan was assigned to the new technologies. 
+
+
 
 Underground extraction
 ++++++++++
@@ -138,7 +152,7 @@ The data is based on international sources and projects of the Costa Rican Insti
    :align:   center  
    
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 0.7 [km3]                                                 |
+   | Constant Value                                          | 0.45 [km3]                                                |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    
 
