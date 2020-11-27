@@ -76,7 +76,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 1 year. 
+In the case of rice crops, their operational life is 1 year. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Rice_ResidualCapacity.png
    :align:   center
@@ -228,7 +228,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 1 year. 
+In the case of rice crops, their operational life is 1 year. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Coffee_ResidualCapacity.png
    :align:   center
@@ -309,7 +309,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 1 year. 
+In the case of rice crops, their operational life is 1 year. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Sugar_Cane_ResidualCapacity.png
    :align:   center
@@ -391,7 +391,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 1 year. 
+In the case of rice crops, their operational life is 1 year. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Palm_ResidualCapacity.png
    :align:   center
@@ -460,7 +460,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 1 year. 
+In the case of rice crops, their operational life is 1 year. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Pineapple_ResidualCapacity.png
    :align:   center
