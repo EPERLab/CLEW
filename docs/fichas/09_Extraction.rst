@@ -35,7 +35,7 @@ The capital cost is given in MUS$ per km3. This information is based on internat
 FixCost[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of the capital cost as the fixed cost. 
+The fix cost is given in MUS$ per km3. This information is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
 
 .. table::
    :align:   center  
@@ -123,7 +123,7 @@ ResidualCapacity[r,t,y]
    :align:   center  
    
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 2.924 [km3]                                               |
+   | Constant Value                                          | 0.45 [km3]                                                |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
    
