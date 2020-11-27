@@ -51,7 +51,8 @@ ResidualCapacity[r,t,y]
 It is assumed that the residual capacity is equal to the activity of each technology. 
 
 .. table::
-   :align:   center  
+   :align:   center 
+   
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
