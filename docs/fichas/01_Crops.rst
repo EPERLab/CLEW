@@ -105,6 +105,8 @@ Banana crops
 CapitalCost[r,t,y]
 ---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of the Executive Secretariat of Agricultural Sector Planning (SEPSA). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
+
 .. figure::  parameters/Banana_CapitalCost.png
    :align:   center
    :width:   550 px
@@ -113,6 +115,10 @@ CapitalCost[r,t,y]
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of banana crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
+
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
 
 .. figure::  parameters/Banana_EmissionAR.png
    :align:   center
@@ -123,6 +129,8 @@ EmissionActivityRatio[r,t,e,m,y]
 FixedCost[r,t,y]
 ---------
 
+This data is based on information from the Central Bank of Costa Rica. 
+
 .. figure::  parameters/Banana_FixedCost.png
    :align:   center
    :width:   550 px
@@ -131,6 +139,8 @@ FixedCost[r,t,y]
 
 OutputActivityRatio[r,t,y]
 ---------
+
+This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place. 
 
 .. figure::  parameters/Banana_OAR.png
    :align:   center
@@ -168,6 +178,8 @@ Coffee crops
 CapitalCost[r,t,y]
 ---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of the Costa Rican Coffee Institude (ICAFE). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
+
 .. figure::  parameters/Coffee_CapitalCost.png
    :align:   center
    :width:   550 px
@@ -177,6 +189,10 @@ CapitalCost[r,t,y]
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
+The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of banana crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
+
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
+
 .. figure::  parameters/Coffee_EmissionAR.png
    :align:   center
    :width:   550 px
@@ -185,6 +201,8 @@ EmissionActivityRatio[r,t,e,m,y]
 
 FixedCost[r,t,y]
 ---------
+
+This data is based on information from the Central Bank of Costa Rica. 
 
 .. figure::  parameters/Coffee_FixedCost.png
    :align:   center
@@ -231,6 +249,8 @@ Sugar Cane crops
 CapitalCost[r,t,y]
 ---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of the National Federation of Oil Palm Growers (FEDEPALMA). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
+
 .. figure::  parameters/Sugar_Cane_CapitalCost.png
    :align:   center
    :width:   550 px
@@ -239,6 +259,10 @@ CapitalCost[r,t,y]
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
+
+The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of banana crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
+
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
 
 .. figure::  parameters/Sugar_Cane_EmissionAR.png
    :align:   center
@@ -249,6 +273,8 @@ EmissionActivityRatio[r,t,e,m,y]
 FixedCost[r,t,y]
 ---------
 
+This data is based on information from the Central Bank of Costa Rica. 
+
 .. figure::  parameters/Sugar_Cane_FixedCost.png
    :align:   center
    :width:   550 px
@@ -257,6 +283,8 @@ FixedCost[r,t,y]
 
 OutputActivityRatio[r,t,y]
 ---------
+
+This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place. 
 
 .. figure::  parameters/Sugar_Cane_OAR.png
    :align:   center
@@ -287,13 +315,15 @@ Palm Oil crops
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set codification:                                       |CRPRODPALM                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Description:                                            | Palm Oil crops                                            |
+   | Description:                                            |Palm Oil crops                                             |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 CapitalCost[r,t,y]
 ---------
+
+The capital cost is given in MUS$ per Mha. This information is based on reports of the National Federation of Oil Palm Growers (FEDEPALMA). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
 
 .. figure::  parameters/Palm_CapitalCost.png
    :align:   center
@@ -304,6 +334,10 @@ CapitalCost[r,t,y]
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
+The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of palm oil crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
+
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
+
 .. figure::  parameters/Palm_EmissionAR.png
    :align:   center
    :width:   550 px
@@ -313,6 +347,8 @@ EmissionActivityRatio[r,t,e,m,y]
 FixedCost[r,t,y]
 ---------
 
+This data is based on information from the Central Bank of Costa Rica. 
+
 .. figure::  parameters/Palm_FixedCost.png
    :align:   center
    :width:   550 px
@@ -321,6 +357,8 @@ FixedCost[r,t,y]
 
 OutputActivityRatio[r,t,y]
 ---------
+
+This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place. 
 
 .. figure::  parameters/Palm_OAR.png
    :align:   center
@@ -358,6 +396,8 @@ Pineapple crops
 CapitalCost[r,t,y]
 ---------
 
+The capital cost is given in MUS$ per Mha. This information is based on reports of the Executive Secretariat of Agricultural Sector Planning (SEPSA). It includes aspects such as soil preparation, seeds, cleaning, and drainage preparation, among others.
+
 .. figure::  parameters/Pineapple_CapitalCost.png
    :align:   center
    :width:   550 px
@@ -368,14 +408,18 @@ CapitalCost[r,t,y]
 FixedCost[r,t,y]
 ---------
 
+This data is based on information from the Central Bank of Costa Rica. 
+
 .. figure::  parameters/Pineapple_FixedCost.png
    :align:   center
    :width:   550 px
    
    *Figure: Fixed Cost of Pineapple Production* :download:`. <csv/Pineapple_FixedCost.csv>`
-
+   
 OutputActivityRatio[r,t,y]
 ---------
+
+This parameter represents the crop yield. This parameter is based on historical data from reports of the Executive Secretariat for Agricultural Sector Planning. In the BAU scenario, the crop yield increase according to the historical data. In the NDP scenario, the increase is greater since better production practices are put into place. 
 
 .. figure::  parameters/Pineapple_OAR.png
    :align:   center
