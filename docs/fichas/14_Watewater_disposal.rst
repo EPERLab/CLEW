@@ -180,7 +180,7 @@ The Annual Activity is based on information from the National Policy on Wastewat
    
    *Figure: Annual Activity Lower Limit of Septic tanks* :download:`. <csv/CRPOZOSRURFUT_Activity_Lo.csv>`
    
-   Water treatment of wastewater from human consumption
+Water treatment of wastewater from human consumption
 ++++++++++
 
 
