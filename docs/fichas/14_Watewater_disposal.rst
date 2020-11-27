@@ -150,7 +150,6 @@ FixedCost[r,t,y]
 
 The FixedCost is based on data from the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
 
-
 .. table::
    :align:   center  
    
