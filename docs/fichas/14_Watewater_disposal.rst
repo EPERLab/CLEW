@@ -104,6 +104,16 @@ The data of emissions is based on the National Inventory of Greenhouse Gases and
    
    *Figure: Emission Activity Ratio of Water treatment of industrial wastewater* :download:`. <csv/CRVTRATINDYSERV_Emission_Act_Ratio.csv>`
 
+ResidualCapacity[r,t,y]
+---------
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 0.035 [km3]                                               |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
 
 Septic tank
 ++++++++++
@@ -212,6 +222,16 @@ The FixedCost is based on data from the Costa Rican Institute of Aqueducts and S
    
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 371.6 US$/km3                                              |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+ResidualCapacity[r,t,y]
+---------
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 0.033 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 EmissionActivityRatio[r,t,e,m,y]
