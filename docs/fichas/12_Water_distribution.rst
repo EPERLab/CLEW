@@ -29,32 +29,6 @@ It is assumed that the capacity is equal to the activity of the technologies.
    
    *Figure: Residual Capacity of Water Distribution* :download:`. <csv/CRREDACUED_Residual_Capacity.csv>`
 
-EmissionActivityRatio[r,t,e,m,y]
----------
-
-The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute (IMN). 
-
-
-.. table::
-   :align:   center  
-
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 1 [MtonCO2eq/km3]                                         |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
-OutputActivityRatiot[r,t,y]
----------
-
-The aqueduct network also includes losses due to leaks and illegal intakes, which correspond to 50%, so the output of this technology is 0.5, for current and future technologies. 
-
-.. table::
-   :align:   center  
-
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 40%                                                       |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
-
 CapitalCost[r,t,y]
 ---------
 
@@ -80,6 +54,19 @@ The fix cost is given in MUS$ per km3. This information is based on projects of 
    | Constant Value                                          |752.7 MUS$/km3                                             |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    
+EmissionActivityRatio[r,t,e,m,y]
+---------
+
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute (IMN). 
+
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 1 [MtonCO2eq/km3]                                         |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
 OutputActivityRatiot[r,t,y]
 ---------
 
@@ -89,5 +76,5 @@ The aqueduct network also includes losses due to leaks and illegal intakes, whic
    :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 50%                                                       |
+   | Constant Value                                          | 40%                                                       |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
