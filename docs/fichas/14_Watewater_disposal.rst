@@ -221,7 +221,7 @@ The FixedCost is based on data from the Costa Rican Institute of Aqueducts and S
    :align:   center  
    
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 371.6 US$/km3                                              |
+   | Constant Value                                          | 371.6 US$/km3                                             |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 EmissionActivityRatio[r,t,e,m,y]
