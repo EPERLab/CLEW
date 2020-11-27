@@ -34,7 +34,19 @@ The capital cost of wastewater disposal is given in MUS$ per km3. This informati
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 723.9 MUS$/km3                                            |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+FixedCost[r,t,y]
+---------
+
+The FixedCost is based on data from the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
+
+
+.. table::
+   :align:   center  
    
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 306.9 US$/km3                                             |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+   
 
 Water treatment of industrial wastewater
 ++++++++++
@@ -64,8 +76,21 @@ The capital cost of wastewater disposal is given in MUS$ per km3. This informati
    :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 605,2 MUS$/km3                                            |
+   | Constant Value                                          | 605.2 MUS$/km3                                            |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   
+FixedCost[r,t,y]
+---------
+
+The FixedCost is based on data from the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
+
+
+.. table::
+   :align:   center  
+   
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 371.6 US$/km3                                             |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+   
    
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -107,9 +132,21 @@ The capital cost of wastewater disposal is given in MUS$ per km3. This informati
    :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 49,78  MUS$/km3                                           |
+   | Constant Value                                          | 49.78  MUS$/km3                                           |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    
+FixedCost[r,t,y]
+---------
+
+The FixedCost is based on data from the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
+
+
+.. table::
+   :align:   center  
+   
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 306.9 US$/km3                                             |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
@@ -162,9 +199,20 @@ The capital cost of wastewater disposal is given in MUS$ per km3. This informati
    :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 605,2 MUS$/km3                                            |
+   | Constant Value                                          | 605.2 MUS$/km3                                            |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+FixedCost[r,t,y]
+---------
+
+The FixedCost is based on data from the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
+
+.. table::
+   :align:   center  
+   
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 371.6 US$/km3                                              |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
