@@ -12,7 +12,7 @@ Water Distribution
    |    :align:   center                                                                                                 |
    |    :width:   500 px                                                                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Set codification:                                       |CRREDACUED, CRREDACUEDFUT                                  |
+   | Set codification:                                       |CRREDACUED                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Description:                                            |Water Distribution                                         |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
@@ -34,6 +34,7 @@ EmissionActivityRatio[r,t,e,m,y]
 
 The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute (IMN). 
 
+
 .. table::
    :align:   center  
 
@@ -52,6 +53,7 @@ The aqueduct network also includes losses due to leaks and illegal intakes, whic
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 40%                                                       |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
 
 CapitalCost[r,t,y]
 ---------
