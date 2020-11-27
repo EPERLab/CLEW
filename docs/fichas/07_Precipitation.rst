@@ -47,16 +47,4 @@ The Capacity Factor is the relationship given between the accumulated precipitat
    
    *Figure: Precipitation Capacity Factor* :download:`. <csv/Preci_CapacityFactor.csv>`
 
-FixCost[r,t,y]
----------
-
-The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of the capital cost as the fixed cost. 
-
-.. table::
-   :align:   center  
-   
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 188.2 [MUS$/km3]                                          |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 
