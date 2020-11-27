@@ -47,6 +47,7 @@ The fix cost is given in MUS$ per km3. This information is based on internationa
 
 ResidualCapacity[r,t,y]
 ---------
+
 It is assumed that the residual capacity is equal to the activity of each technology. 
 
 .. table::
