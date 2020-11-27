@@ -21,16 +21,16 @@ Potabilization
    | Set:                                                    |Technology                                                 |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-ResidualCapacity[r,t,y]
+CapitalCost[r,t,y]
 ---------
 
-It is assumed that the residual capacity is equal to the activity of each technology. 
+The capital cost is given in MUS$ per km3. This information is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
 
 .. table::
    :align:   center  
 
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 0.7 [km3]                                                 |
+   | Constant Value                                          | 49.62 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
 FixedCost[r,t,y]
@@ -45,6 +45,19 @@ The FixedCost is based on data from the Costa Rican Institute of Aqueducts and S
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 188.2 US$/km3                                             |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
+ResidualCapacity[r,t,y]
+---------
+
+It is assumed that the residual capacity is equal to the activity of each technology. 
+
+.. table::
+   :align:   center  
+
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+   | Constant Value                                          | 0.7 [km3]                                                 |
+   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
+
 
 EmissionActivityRatio[r,t,e,m,y]
 ---------
