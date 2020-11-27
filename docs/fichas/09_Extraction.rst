@@ -69,18 +69,6 @@ The data is based on international sources and projects of the Costa Rican Insti
    | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
-TotalAnnualMaxCapacity[r,t,y]
----------
-
-The data is based on international sources and projects of the Costa Rican Institute of Aqueducts and Sewers (AYA). 
-
-.. table::
-   :align:   center  
-   
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          | 2.924 [km3]                                               |
-   +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 OperationalLife[r,t,y]
 ---------
 
