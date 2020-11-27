@@ -70,7 +70,7 @@ The capital cost is given in MUS$ per km3. This information is based on the Nati
 FixedCost[r,t,y]
 ---------
 
-The fix cost is given in MUS$ per km3. This information is based on projects of the Costa Rican Institute of Aqueducts and Sewers (AYA).
+The fix cost is given in MUS$ per km3. This information is based on projects of the Costa Rican Institute of Aqueducts and Sewers (AYA), for current and future technologies.
 
 
 .. table::
