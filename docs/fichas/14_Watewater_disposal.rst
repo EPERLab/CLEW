@@ -210,7 +210,7 @@ Water without treatment
 EmissionActivityRatio[r,t,e,m,y]
 ---------
 
-The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute. 
+The data of emissions is based on the National Inventory of Greenhouse Gases and Carbon Absorption from the National Meteorological Institute, for both current and future technologies.
 
 
 .. figure::  parameters/CRVSINTRAT_Emission_Act_Ratio.png
