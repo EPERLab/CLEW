@@ -44,6 +44,7 @@ The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of 
    | Constant Value                                          |6.87 [MUS$/km3]                                            |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
 
+
 ResidualCapacity[r,t,y]
 ---------
 It is assumed that the residual capacity is equal to the activity of each technology. 
@@ -51,11 +52,9 @@ It is assumed that the residual capacity is equal to the activity of each techno
 .. table::
    :align:   center  
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-   | Constant Value                                          |1.26 [km3]                                                 |
+   | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
-
-   
+ 
 TotalAnnualMaxCapacity[r,t,y]
 ---------
 
@@ -120,14 +119,12 @@ The fix cost is given in MUS$ per km3. In this case, the model assumes a 43% of 
 ResidualCapacity[r,t,y]
 ---------
 
-
 .. table::
    :align:   center  
    
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
    | Constant Value                                          | 2.924 [km3]                                               |
    +-------------------------------------------------+-------+--------------+--------------+--------------+--------------+
-
 
    
 TotalAnnualMaxCapacity[r,t,y]
