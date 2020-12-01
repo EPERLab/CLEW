@@ -151,7 +151,7 @@ This parameter represents the crop yield. This parameter is based on historical 
 ResidualCapacity[r,t,y]
 ---------
 
-Here, the residual capacity is understood as the area remaining from a period prior to modeling and is obtained by subtracting each year a proportion of the available area (Mha) based on an average of the operational life of rice crops. It is a function and tends to zero. This parameter is based on the following equation: 
+Here, the residual capacity is understood as the area remaining from a period prior to modeling and is obtained by subtracting each year a proportion of the available area (Mha) based on an average of the operational life of banana crops. It is a function and tends to zero. This parameter is based on the following equation: 
 
 .. math::
 
@@ -199,7 +199,7 @@ EmissionActivityRatio[r,t,e,m,y]
 
 The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of coffee crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
 
-In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way coffee is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way coffee is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable coffee production schemes.
 
 .. figure::  parameters/Coffee_EmissionAR.png
    :align:   center
@@ -278,7 +278,7 @@ EmissionActivityRatio[r,t,e,m,y]
 
 The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of sugar cane crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
 
-In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable sugar cane production schemes.
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way sugar cane is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable sugar cane production schemes.
 
 .. figure::  parameters/Sugar_Cane_EmissionAR.png
    :align:   center
@@ -317,7 +317,7 @@ Here, the residual capacity is understood as the area remaining from a period pr
 
    \frac{Area(year-1) -  Area(year)}{Operational\ life}. 
    
-In the case of rice crops, their operational life is 5 years. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
+In the case of sugar cane crops, their operational life is 5 years. The data is based on the National Territorial Information System, from the Executive Secretariat of Agricultural Sector Planning (SEPSA) and from the Ministry of Agriculture and Livestock (MAG). 
 
 .. figure::  parameters/Sugar_Cane_ResidualCapacity.png
    :align:   center
@@ -360,7 +360,7 @@ EmissionActivityRatio[r,t,e,m,y]
 
 The data on emissions is based on the National Inventory of Greenhouse Gases. To calculate the emission factor per hectare, the total emissions (CH4) of palm oil crops were divided by the total number of occupied hectares this type of crop, and then converted into tons of CO2 equivalent. 
 
-In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way rice is produced. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
+In the BAU scenario, emission factors remain constant until 2050, considering that there are not changes in the way palm oil is obtained. In the NDP scenario, emissions factors decrease by 39% from 2022 onwards. This modification is based on the Food and Agriculture Organization's GHG emission projections for agriculture, and it contemplates more sustainable rice production schemes.
 
 .. figure::  parameters/Palm_EmissionAR.png
    :align:   center
